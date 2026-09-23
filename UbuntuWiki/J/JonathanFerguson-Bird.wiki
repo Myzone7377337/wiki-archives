@@ -9,7 +9,7 @@
 __TOC__
 
 <<BR>>Install the Bird Internet Routing Daemon:
-<<BR>>`sudo apt-get install bird3 || sudo apt-get install bird2`
+<<BR>>`sudo apt-get install bird || sudo apt-get install bird2 || sudo apt-get install bird3`
 <<BR>>
 <<BR>>Enable IPv4 and IPv6 Forwarding:
 <<BR>>`echo "net.ipv4.conf.all.forwarding=1" | sudo tee -a /etc/sysctl.conf`
@@ -20,11 +20,13 @@ __TOC__
 <<BR>>
 <<BR>>Backup the configuration file:
 <<BR>>`sudo mv /etc/bird/bird.conf /etc/bird/bird.conf.original`
+<<BR>>`sudo mv /etc/bird/bird6.conf /etc/bird/bird6.conf.original`
 <<BR>>
 <<BR>>Create the configuration files:
-<<BR>>`sudo nano `<nowiki>[[attachment:bird.conf|-etc-bird-bird.conf]]</nowiki>
-<<BR>>`sudo nano `<nowiki>[[attachment:bird6.conf|-etc-bird-bird6.conf]]</nowiki>
+<<BR>>`sudo nano `<nowiki>[[attachment:bird.conf|/etc/bird/bird.conf]]</nowiki>
+<<BR>>`sudo nano `<nowiki>[[attachment:bird6.conf|/etc/bird/bird6.conf]]</nowiki>
 <<BR>>`sudo chmod o-r /etc/bird/bird.conf && sudo chown bird:bird /etc/bird/bird.conf`
+<<BR>>`sudo chmod o-r /etc/bird/bird6.conf && sudo chown bird:bird /etc/bird/bird6.conf`
 <<BR>>`sudo touch /etc/bird/bird.mrt && sudo chmod o-r /etc/bird/bird.mrt && sudo chown bird:bird /etc/bird/bird.mrt`
 <<BR>>`sudo chown -R bird:bird /etc/bird`
 <<BR>>`sudo find /etc/bird -type f -exec chmod 640 {} +`
@@ -35,6 +37,7 @@ __TOC__
 <<BR>>
 <<BR>>Restart the daemons:
 <<BR>>`sudo service bird restart || sudo /etc/init.d/bird restart`
+<<BR>>`sudo service bird6 restart || sudo /etc/init.d/bird6 restart`
 <<BR>>
 <<BR>>
 ----

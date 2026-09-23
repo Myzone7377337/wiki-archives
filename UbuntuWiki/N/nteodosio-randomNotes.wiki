@@ -152,6 +152,14 @@ systemctl disable snap.lxd.activate
 
 Just start it manually when needed.
 
+=== Snap gdbserver ===
+
+If there are multiple threads being created and each generates a SIGSTOP, use
+
+<code>handle SIGSTOP nostop noprint</code>
+
+lest you need to spam `continue`.
+
 == Ubuntu ARMv7 on ARMv8 ==
 
 <pre>

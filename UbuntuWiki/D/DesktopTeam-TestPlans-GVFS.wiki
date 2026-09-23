@@ -33,7 +33,7 @@ $ gnome-text-editor admin:///etc/sudoers
 
 Should prompt you for your password and be able to open sudoers
 
-=== Archive ===
+=== Archive (Ubuntu 26.04 and older only) ===
 
 <pre>
 $ /usr/libexec/gvfsd-archive file=file:///path/to/archive.zip
@@ -46,7 +46,7 @@ And check that the archive is listed in the nautilus sidebar and browsable
 <pre>
 $ gio mount ftp://ftp.alsa-project.org/pub/lib/
 $ gio list ftp://ftp.alsa-project.org/pub/lib/
-$ gio -u mount ftp://ftp.alsa-project.org/pub/lib/
+$ gio mount -u ftp://ftp.alsa-project.org/pub/lib/
 </pre>
 
 Use "anonymous" user with empty password

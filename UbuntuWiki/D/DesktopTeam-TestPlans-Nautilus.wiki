@@ -98,5 +98,17 @@ Note that the feature only works with thunderbird if the 'nautilus-sendto' packa
 
 Without nautilus-sendto thunderbird would get no file attached to the composer but the feature should still work with evolution or geary.
 
+==== File Chooser Dialog (Ubuntu 26.04 and newer) ====
+
+If testing on Ubuntu Desktop 26.04, Nautilus is used to implement the xdg-desktop-portal file chooser.
+
+Launch Firefox, and navigate to https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/file#try_it
+
+Click "Browse..."
+-> Verify that the file chooser dialog has appeared.
+
+Select any file
+-> Verify that the filename is correctly shown next to the "Browse..." button you clicked earlier.
+
 ----
 CategoryDesktopTestPlans

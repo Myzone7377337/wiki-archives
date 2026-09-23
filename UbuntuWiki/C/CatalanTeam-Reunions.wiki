@@ -26,7 +26,7 @@ A les reunions és on es decideixen les qüestions importants del LoCo. Sou benv
 
 === Propera reunió ===
 
-La propera reunió es farà el dia 7 de gener de 2026 a les 21.00 h, hora catalana. La durada serà d'una hora, com a màxim.
+La propera reunió es farà el dia 1 de juliol de 2026 a les 21.00 h, hora catalana. La durada serà d'una hora, com a màxim.
 Qualsevol pot afegir un punt a l'ordre del dia que es tancarà el dia anterior a les 23:59 hora catalana.
 
 ==== Ordre del dia ====
@@ -36,17 +36,32 @@ Qualsevol pot afegir un punt a l'ordre del dia que es tancarà el dia anterior a
 | <rowbgcolor="#d9bb7a">'''Tema'''
 | '''Responsable'''<<BR>>
 |-
-| Reunió presencial al gener o febrer
+| Trobada a Gràcia del 13 de juny: valoració
 | WalterGarciaFontes
 |}
 
 === Reunions fetes ===
 
+==== Doscentsvuitantena reunió (2026-06-03) ====
+Resum de la reunió del 3 de juny de 2026 per IRC al canal <nowiki>[[https://web.libera.chat/?channel=#ubuntu-cat|#ubuntu-cat de web.libera.chat]]</nowiki>. <<BR>>(<nowiki>[[https://irclogs.ubuntu.com/2026/06/03/%23ubuntu-cat.html|transcripció completa]]</nowiki>). Es decideix preparar un parell de temes per si ve gent a la reunió de Gràcia i no vol instal·lar res. Es comenta que l'ús de la intel·ligència artificial a Linux pot ser interessant. També alguns canvis a l'Ubuntu com l'ús de Rust per programar elemens del sistema operatiu (coreutils), o també l'escriptori de l'Ubuntu Touch que també s'està desenvolupant per sobretaules i portàtils.
+
+==== Doscentssetantanourena reunió (2026-05-06) ====
+Resum de la reunió del 6 de maig de 2026 per IRC al canal <nowiki>[[https://web.libera.chat/?channel=#ubuntu-cat|#ubuntu-cat de web.libera.chat]]</nowiki>. <<BR>>(<nowiki>[[https://irclogs.ubuntu.com/2026/05/06/%23ubuntu-cat.html|transcripció completa]]</nowiki>). Es comenta el restabliment de tots els serveis al servidor de Caliu on els tenim allotjats. Es decideix demanar una reserva al lloc de Gràcia on Caliu realitza les activitats, per a una trobada, quan hi hagi disponibilitat. Es decideix demanar un lloc petit amb unes poques cadires.
+
+==== Doscentssetantavuitena reunió (2026-04-03) ====
+Resum de la reunió del 3 d'abril de 2026 per IRC al canal <nowiki>[[https://web.libera.chat/?channel=#ubuntu-cat|#ubuntu-cat de web.libera.chat]]</nowiki>. <<BR>>(<nowiki>[[https://irclogs.ubuntu.com/2026/04/03/%23ubuntu-cat.html|transcripció completa]]</nowiki>). No hi ha hagut quòrum i la reunió no se celebra.
+
+==== Doscentssetantasetena reunió (2026-02-04) ====
+Resum de la reunió del 4 de febrer de 2026 per IRC al canal <nowiki>[[https://web.libera.chat/?channel=#ubuntu-cat|#ubuntu-cat de web.libera.chat]]</nowiki>. <<BR>>(<nowiki>[[https://irclogs.ubuntu.com/2026/02/04/%23ubuntu-cat.html|transcripció completa]]</nowiki>). Parlem del servidor de Caliu, on tenim allotjada la web, que continua caigut. Seguim donant-li voltes a fer una trobada física a Gràcia. Quedem de contactar el lloc on es fan les jornades de Caliu a veure si ho podem fer en aquest lloc.
+
+==== Doscentssetantasisena reunió (2026-01-07) ====
+Resum de la reunió del 7 de gener de 2026 per IRC al canal <nowiki>[[https://web.libera.chat/?channel=#ubuntu-cat|#ubuntu-cat de web.libera.chat]]</nowiki>. Avui no hi ha hagut quòrum i la reunió no es va celebrar.
+
 ==== Doscentssetantacinquena reunió (2025-12-03) ====
 Resum de la reunió del 3 de desembre de 2025 per IRC al canal <nowiki>[[https://web.libera.chat/?channel=#ubuntu-cat|#ubuntu-cat de web.libera.chat]]</nowiki>
 <<BR>>(<nowiki>[[https://irclogs.ubuntu.com/2025/12/03/%23ubuntu-cat.html|transcripció completa]]</nowiki>). Es comenta sobre una possible activitat presencial amb motiu de l'Ubuntu 25.10, però encara no es concreta. Hi ha la proposta de fer una activitat a València per a l'Ubuntu 26.04, que s'anirà valorant en les properes reunions.
 
-==== Doscentssetantaquatrena reunió (2025-11-04) ====
+==== Doscentssetantaquatrena reunió (2025-11-05) ====
 Resum de la reunió del 5 de novembre de 2025 per IRC al canal <nowiki>[[https://web.libera.chat/?channel=#ubuntu-cat|#ubuntu-cat de web.libera.chat]]</nowiki>
 <<BR>>(<nowiki>[[https://irclogs.ubuntu.com/2025/11/05/%23ubuntu-cat.html|transcripció completa]]</nowiki>). S'acorda intentar fer una reunió presencial oberta per si algú vol instal·lar al gener o el febrer. S'aprova fer una activitat a València per a l'Ubuntu 26.04.
 

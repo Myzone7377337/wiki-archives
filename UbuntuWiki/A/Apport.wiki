@@ -8,6 +8,7 @@
 
 __TOC__
 
+
 Available languages:<nowiki>[[https://wiki.ubuntu.com/Apport_it| Italiano]]</nowiki>,
 
 == What is this all about? ==
@@ -51,16 +52,16 @@ If the user leaves the "Send error report" checkbox enabled, Apport uploads the 
 
 Apport is not enabled by default in stable releases, even if it is installed. The automatic crash interception component of apport is disabled by default in stable releases for a number of reasons:
 
-1. Apport collects potentially sensitive data, such as core dumps, stack traces, and log files. They can contain passwords, credit card numbers, serial numbers, and other private material.
+ 1. Apport collects potentially sensitive data, such as core dumps, stack traces, and log files. They can contain passwords, credit card numbers, serial numbers, and other private material.
 
  This is mitigated by the fact that it presents you what will be sent to the bug tracker, and that all crash report bugs are private by default, limited to <nowiki>[[https://launchpad.net/~ubuntu-crashes-universe|the Ubuntu bug triaging team]]</nowiki>. We can reasonably expect developers and technically savvy users, who run the development release, to be aware of this and judge whether it is appropriate to file a crash report. But we shouldn't assume that every Ubuntu user of stable releases is able to do so. In 12.04 and up this is transparently handled by whoopsie, see ErrorTracker.
 
-1. During the development release we already collect thousands of crash reports, much more than we can ever fix. Continuing to collect those for stable releases is not really useful, since
+ 1. During the development release we already collect thousands of crash reports, much more than we can ever fix. Continuing to collect those for stable releases is not really useful, since
 ** The most important crashes have already been discovered in the development release.
 ** The less important ones are not suitable for getting fixed in stable releases (see <nowiki>[[https://wiki.ubuntu.com/StableReleaseUpdates||SRU policy]]</nowiki>
 ** Asking users to send crash reports to us is insincere, since we can't possibly answer and deal with all of them.
 
-1. Data collection from apport takes a nontrivial amount of CPU and I/O resources, which slow down the computer and don't allow you to restart the crashed program for several seconds.
+ 1. Data collection from apport takes a nontrivial amount of CPU and I/O resources, which slow down the computer and don't allow you to restart the crashed program for several seconds.
 
 '''Note''' apport does not trap SIGABRT signals. If you are getting such a signal, then please see DebuggingProgramCrash.
 
@@ -118,7 +119,7 @@ Some fields warrant further details:
 
 There are several tools available for working with a crash report:
 
-* '''Ubuntu Bug Patterns''': <nowiki>[[ http:--bazaar.launchpad.net-~ubuntu-bugcontrol-apport-ubuntu-bugpatterns-files | These ]]</nowiki> are patterns for packages (writable by Ubuntu Bug Control) that prevent bugs from being filed by apport.  Complete details are found in the <nowiki>[[ http:--bazaar.launchpad.net-~ubuntu-bugcontrol-apport-ubuntu-bugpatterns-annotate-head%3A-README | README ]]</nowiki>.
+* '''Ubuntu Bug Patterns''': <nowiki>[[ http://bazaar.launchpad.net/~ubuntu-bugcontrol/apport/ubuntu-bugpatterns/files | These ]]</nowiki> are patterns for packages (writable by Ubuntu Bug Control) that prevent bugs from being filed by apport.  Complete details are found in the <nowiki>[[ http://bazaar.launchpad.net/~ubuntu-bugcontrol/apport/ubuntu-bugpatterns/annotate/head%3A/README | README ]]</nowiki>.
 * '''apport-unpack''': Unpack a report into single files (one per attribute). This is most useful for extracting the core dump. Please see the manpage for further details. This tool is not necessary when working with Launchpad, since it already splits the parts into separate attachments.
 * '''apport-retrace''': Regenerate stack traces of a report. If you supply the `-g` option, this tool will automatically download available debug symbol packages and use them to generate a symbolic stack trace. The manpage explains the functionality and all available options in detail.
 * '''python-problem-report''': This package ships a Python module `problem_report` which provides general dictionary access to a crash report and loading/saving methods (not specific to apport reports).
@@ -181,7 +182,7 @@ It is possible for packages to specify information gathered from the system and 
 * usplash - ignores crashes in specific code paths
 * source_totem.py - asks the reporter questions and gathers different information based on responses
 
-in <code>/usr/share/apport/package-hooks</code>.  There is also a <nowiki>[[ http:--wiki.ubuntu.com-Apport-PackageHooks | list ]]</nowiki> of packages providing apport hooks.
+in <code>/usr/share/apport/package-hooks</code>.  There is also a <nowiki>[[ http://wiki.ubuntu.com/Apport/PackageHooks | list ]]</nowiki> of packages providing apport hooks.
 
 Please see /DeveloperHowTo for further information.
 
@@ -206,5 +207,5 @@ If a crash or bug report is submitted through apport, the relevant hooks will be
 * <nowiki>[[ErrorTracker|Whoopsie]]</nowiki> is a newer Ubuntu crash submission system that doesn't require any input from the user and integrates with Apport
 * Please do not hesitate to report bugs and feature requests to the <nowiki>[[https://launchpad.net/apport/+bugs|bug tracker]]</nowiki>.
 * See <nowiki>[[Bugs-ApportRetraces]]</nowiki> for additional documentation for those triaging Apport-generated bug reports in LaunchPad, based on a <nowiki>[[MOTU-School]]</nowiki> session by EmmetHikory .
-* <nowiki>[[ BrianMurray | Brian Murray ]]</nowiki> gave a <nowiki>[[ https:--wiki.ubuntu.com-MeetingLogs-devweek0909-ApportPkgHooks | class ]]</nowiki> at Ubuntu Developer week regarding writing package hooks.
+* <nowiki>[[ BrianMurray | Brian Murray ]]</nowiki> gave a <nowiki>[[ https://wiki.ubuntu.com/MeetingLogs/devweek0909/ApportPkgHooks | class ]]</nowiki> at Ubuntu Developer week regarding writing package hooks.
 * Integration using LaunchpadIntegration: <nowiki>[[https://wiki.ubuntu.com/UbuntuDevelopment/Internationalisation/Coding#LPI]]</nowiki>

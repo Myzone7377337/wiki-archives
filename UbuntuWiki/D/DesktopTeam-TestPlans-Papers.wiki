@@ -37,7 +37,7 @@ Papers is a standalone app and therefore a bug in Papers won't affect other apps
 
 Firefox is able to display PDFs as well as Papers can. Papers is still provided as a simple utility both because it is generally useful and because there is long-standing precedence for this kind of app to be provided by desktop operating systems (especially in macOS and Linux but also now in Windows).
 
-Papers is expected to be part of GNOME Core for GNOME 49 and would then fall under the GNOME Stable Release Update microrelease exception for Ubuntu 25.10 and later.
+Papers is part of GNOME Core since GNOME 49, and thus fall under the GNOME Stable Release Update microrelease exception for Ubuntu 25.10 and later.
 
 === What Could Go Wrong (poppler) ===
 Currently the only routine updates for poppler in stable Ubuntu releases we do are minimal security updates.

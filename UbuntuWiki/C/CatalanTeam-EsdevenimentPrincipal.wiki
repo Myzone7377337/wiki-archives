@@ -15,5 +15,5 @@ __TOC__
 
 {| class="wikitable"
 |-
-| <tablestyle="text-align:center; font-weight: bold; font-size: 0.85em; border: 1px solid #DD4814; width: 100%; border-radius:5px; background: #ffffbb; width: 100%;" style="border: none;"|2> '''~+Ja estem preparant la jornada <nowiki>[[https://wiki.ubuntu.com/CatalanTeam/Activitats/PluckyPuffin | Plucky Puffin]]</nowiki> - Ubuntu 25.04+~'''
+| <tablestyle="text-align:center; font-weight: bold; font-size: 0.85em; border: 1px solid #DD4814; width: 100%; border-radius:5px; background: #ffffbb; width: 100%;" style="border: none;"|2> '''~+Ja estem preparant la jornada <nowiki>[[https://wiki.ubuntu.com/CatalanTeam/Activitats/ResoluteRacoon | Resolute Racoon]]</nowiki> - Ubuntu 26.04+~'''
 |}

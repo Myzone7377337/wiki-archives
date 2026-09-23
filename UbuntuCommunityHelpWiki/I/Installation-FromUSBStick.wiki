@@ -17,7 +17,7 @@ The general procedure to install Ubuntu (or Ubuntu flavour, Kubuntu, Lubuntu, Xu
 * <nowiki>[[https://help.ubuntu.com/community/UbuntuHashes|Check with sha256sum (or another checksum tool) that the download was good]]</nowiki>.
 * Put Ubuntu onto your USB flash drive alias 'stick' alias 'pendrive' alias 'thumb'. Tools for this purpose are described in this help page.
 * Configure your computer to boot from USB flash drive and boot from it.
-* <nowiki>[[http://ubuntuforums.org/showthread.php?t=2230389|Try Ubuntu (Kubuntu, Lubuntu, Xubuntu, ...) before installing it.]]</nowiki>
+* <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2230389|Try Ubuntu (Kubuntu, Lubuntu, Xubuntu, ...) before installing it.]]</nowiki>
 * Install Ubuntu to your internal drive (hard disk drive or solid state drive or external drive).
 
 See also: '''<nowiki>[[https://help.ubuntu.com/community/Installation/FromUSBStickQuick|Installation/FromUSBStickQuick]]</nowiki> for beginners starting from Windows.'''
@@ -35,7 +35,7 @@ Note: This article uses the term "USB flash drive" alongside USB stick, USB driv
 To create a USB installation device, you will need:
 * an '''8 GB USB flash device/drive/stick'''. If the iso file is smaller than 4 GB, it is possible to use a 4 GB USB device, at least with some of the methods. Files on this USB device will be erased, so '''backup the files you want to keep before making the device bootable'''. Some of the tools require that this USB device is properly formatted and mounted while other tools will overwrite whatever is on the target device. Please follow the instructions for each tool.
 * an '''Ubuntu flavour ISO file''' downloaded from an official web page, <nowiki>[[https://ubuntu.com/download|ubuntu.com/download]]</nowiki> or <nowiki>[[http://releases.ubuntu.com]]</nowiki>, stored in your running computer (for example in the directory '''Downloads''' in the internal drive, '''not''' in the USB flash drive that you want to make into a USB boot drive).
-* <nowiki>[[https://help.ubuntu.com/community/UbuntuHashes|Check with sha256sum]]</nowiki> (or another checksum tool) that the download was good. In Linux there is the tool 'sha256sum'. In Windows you can do it with Rufus: <nowiki>[[attachment:-fromWindows-rufus-md5sum.png|click on the circle with a tick mark]]</nowiki> (more about Rufus <nowiki>[[fromWindows|here]]</nowiki>.)
+* <nowiki>[[https://help.ubuntu.com/community/UbuntuHashes|Check with sha256sum]]</nowiki> (or another checksum tool) that the download was good. In Linux there is the tool 'sha256sum'. In Windows you can do it with Rufus: <nowiki>[[attachment:-fromWindows-rufus-md5sum.png|click on the circle with a tick mark]]</nowiki> (more about Rufus <nowiki>[[-fromWindows|here]]</nowiki>.)
 
 === Dummy headlines ===
 
@@ -48,7 +48,7 @@ After a major remake of this help page the following headlines are kept here bec
 
 {| class="wikitable"
 |-
-| <#CCFF99> There is a detailed description at the sub-page '''<nowiki>[[pre]]</nowiki>'''
+| <#CCFF99> There is a detailed description at the sub-page '''<nowiki>[[-pre]]</nowiki>'''
 |}
 
 == Creating a bootable Ubuntu USB flash drive from Windows ==
@@ -81,7 +81,7 @@ There are various methods available for Windows to create a bootable Ubuntu USB 
 
 {| class="wikitable"
 |-
-| <#CCFF99> There is a detailed description at '''<nowiki>[[fromWindows]]</nowiki>''' including Rufus, balena Etcher, Universal USB Installer, Unetbootin and Win32 Disk Imager.
+| <#CCFF99> There is a detailed description at '''<nowiki>[[-fromWindows]]</nowiki>''' including Rufus, balena Etcher, Universal USB Installer, Unetbootin and Win32 Disk Imager.
 |}
 
 == Creating a bootable Ubuntu USB flash drive from Ubuntu ==
@@ -129,16 +129,16 @@ The Startup Disk Creator '''clones''' the iso file, which means that you need ne
 
 {| class="wikitable"
 |-
-| <#CCFF99> There is a detailed description at '''<nowiki>[[fromUbuntu]]</nowiki>''' including the Startup Disk Creator, UNetbootin and mkusb.
+| <#CCFF99> There is a detailed description at '''<nowiki>[[-fromUbuntu]]</nowiki>''' including the Startup Disk Creator, UNetbootin and mkusb.
 |}
 
 == Creating a bootable Ubuntu USB flash drive from Mac OSX ==
 
-See <nowiki>[[How to install Ubuntu on MacBook using USB Stick|How to install Ubuntu on MacBook using USB flash drive]]</nowiki> and <nowiki>[[http://ubuntuforums.org/showthread.php?t=2174630|this Ubuntu Forum thread by Quackers]]</nowiki>
+See <nowiki>[[How to install Ubuntu on MacBook using USB Stick|How to install Ubuntu on MacBook using USB flash drive]]</nowiki> and <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2174630|this Ubuntu Forum thread by Quackers]]</nowiki>
 
 == UEFI ==
 
-There is a good wiki page about <nowiki>[[https://help.ubuntu.com/community/UEFI|booting with UEFI]]</nowiki>, and a good tutorial thread, <nowiki>[[http://ubuntuforums.org/showthread.php?t=2147295|UEFI Installing - Tips]]</nowiki>.
+There is a good wiki page about <nowiki>[[https://help.ubuntu.com/community/UEFI|booting with UEFI]]</nowiki>, and a good tutorial thread, <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2147295|UEFI Installing - Tips]]</nowiki>.
 
 === Test if running in UEFI mode ===
 
@@ -159,7 +159,7 @@ if test -d /sys/firmware/efi; then echo efi; else echo bios; fi
 
 {| class="wikitable"
 |-
-| <#CCFF99> There are more details at the sub-page '''<nowiki>[[uefi]]</nowiki>'''
+| <#CCFF99> There are more details at the sub-page '''<nowiki>[[-uefi]]</nowiki>'''
 |}
 
 == Alternative methods ==
@@ -180,7 +180,7 @@ See this link: <nowiki>[[https://help.ubuntu.com/community/Installation/iso2usb#
 
 {| class="wikitable"
 |-
-| <#CCFF99> There are more details at the sub-page '''<nowiki>[[alt]]</nowiki>'''
+| <#CCFF99> There are more details at the sub-page '''<nowiki>[[-alt]]</nowiki>'''
 |}
 
 == Booting the Computer from USB ==
@@ -220,7 +220,7 @@ So you need to '''edit the Boot Order'''. Depending on your computer, and how yo
 
 {| class="wikitable"
 |-
-| <#CCFF99> There are more details at the sub-page '''<nowiki>[[bootUSB]]</nowiki>'''
+| <#CCFF99> There are more details at the sub-page '''<nowiki>[[-bootUSB]]</nowiki>'''
 |}
 
 == Known Issues ==
@@ -239,7 +239,7 @@ So you need to '''edit the Boot Order'''. Depending on your computer, and how yo
 
 {| class="wikitable"
 |-
-| <#CCFF99> There is a detailed description at the sub-page '''<nowiki>[[post]]</nowiki>'''
+| <#CCFF99> There is a detailed description at the sub-page '''<nowiki>[[-post]]</nowiki>'''
 |}
 
 -----
@@ -252,19 +252,19 @@ So you need to '''edit the Boot Order'''. Depending on your computer, and how yo
 * <nowiki>[[https://help.ubuntu.com/community/Installation/MinimalCD|MinimalCD alias mini.iso]]</nowiki>
 * <nowiki>[[https://help.ubuntu.com/community/Grub2/ISOBoot|booting with grub2]]</nowiki>
 * <nowiki>[[https://help.ubuntu.com/community/UEFI|booting with UEFI]]</nowiki>
-* <nowiki>[[http://ubuntuforums.org/showthread.php?t=1958073|Ubuntu Forums tutorial "Howto make USB boot drives"]]</nowiki>
-* <nowiki>[[http://ubuntuforums.org/showthread.php?t=2196858|Ubuntu Forums tutorial "Howto help USB boot drives"]]</nowiki>
-* <nowiki>[[http://ubuntuforums.org/showthread.php?t=2176132|Ubuntu Forums tutorial "How to create an external USB bootable Linux hard drive (without dual-boot)"]]</nowiki>
+* <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=1958073|Ubuntu Forums tutorial "Howto make USB boot drives"]]</nowiki>
+* <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2196858|Ubuntu Forums tutorial "Howto help USB boot drives"]]</nowiki>
+* <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2176132|Ubuntu Forums tutorial "How to create an external USB bootable Linux hard drive (without dual-boot)"]]</nowiki>
 * <nowiki>[[http://unetbootin.sourceforge.net|Unetbootin for Linux, Windows, Mac OS X]]</nowiki>
 * <nowiki>[[http://zleap.net/unetbootln-usb-how_to/|Paul Sutton's Unetbootin how to]]</nowiki>
 * <nowiki>[[https://rufus.akeo.ie/|Rufus - Create bootable USB drives the easy way (from Windows)]]</nowiki>
 * <nowiki>[[http://www.pendrivelinux.com/multiboot-create-a-multiboot-usb-from-linux|Pendrivelinux about Multisystem]]</nowiki>
 * <nowiki>[[http://www.pendrivelinux.com/install-grub2-on-usb-from-ubuntu-linux|Pendrivelinux about grub2]]</nowiki>
 * <nowiki>[[http://www.pendrivelinux.com/yumi-multiboot-usb-creator|YUMI – Multiboot USB Creator]]</nowiki>
-* <nowiki>[[http://ubuntuforums.org/showthread.php?t=2130234&p=12578569&viewfull=1#post12578569|Choosing between Live USB and Full USB Installation]]</nowiki>
-* <nowiki>[[http://ubuntuforums.org/showthread.php?t=2230389|Try Ubuntu (Kubuntu, Lubuntu, Xubuntu, ...) before installing it]]</nowiki>
+* <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2130234&p=12578569&viewfull=1#post12578569|Choosing between Live USB and Full USB Installation]]</nowiki>
+* <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2230389|Try Ubuntu (Kubuntu, Lubuntu, Xubuntu, ...) before installing it]]</nowiki>
 * <nowiki>[[https://help.ubuntu.com/community/LiveCD/Persistence|LiveCD/Persistence]]</nowiki>
 * <nowiki>[[https://help.ubuntu.com/community/WindowsDualBoot|Dual Boot with Windows]]</nowiki>
-* <nowiki>[[http://ubuntuforums.org/showthread.php?t=2291946|Discussion about tools to create USB boot drives at the Ubuntu Forums "http://ubuntuforums.org/showthread.php?t=2291946"]]</nowiki>
+* <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2291946|Discussion about tools to create USB boot drives at the Ubuntu Forums "http://ubuntuforums.popey.com/showthread.php?t=2291946"]]</nowiki>
 -----
 CategoryLive CategoryInstallation CategoryInstallation CategoryInstallation

@@ -9,129 +9,129 @@
 __TOC__
 
 
-<pre> warning
-SRU documentation has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/latest/
+{{{#!wiki warning
+SRU documentation has moved to https://documentation.ubuntu.com/project/SRU/stable-release-updates/index.html
 
 See the announcement: https://lists.ubuntu.com/archives/ubuntu-devel/2024-August/043090.html
-</pre>
+}}}
 
 === Why ===
 
-<pre> warning
-This section has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/latest/explanation/principles/ and https://canonical-sru-docs.readthedocs-hosted.com/en/latest/explanation/requirements/
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/explanation/principles/ and https://documentation.ubuntu.com/project/SRU/explanation/requirements/
+}}}
 
 === When ===
 
-<pre> warning
-This section has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/latest/reference/requirements/#what-is-acceptable-to-sru
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/requirements/#what-is-acceptable-to-sru
+}}}
 
 ==== High-impact bugs ====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/reference/requirements/#what-is-acceptable-to-sru
+See: https://documentation.ubuntu.com/project/SRU/reference/requirements/#what-is-acceptable-to-sru
 
 ==== Other safe cases ====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/reference/requirements/#other-safe-cases
+See: https://documentation.ubuntu.com/project/SRU/reference/requirements/#other-safe-cases
 
 ==== New upstream microreleases ====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/reference/requirements/#new-upstream-microreleases
+See: https://documentation.ubuntu.com/project/SRU/reference/requirements/#new-upstream-microreleases
 
 ==== Staging low priority uploads ====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/explanation/non-standard-processes/#explanation-staged-uploads
+See: https://documentation.ubuntu.com/project/SRU/explanation/non-standard-processes/#explanation-staged-uploads
 
 ==== ESM Uploads ====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/reference/special/
+See: https://documentation.ubuntu.com/project/SRU/reference/special/
 
 === General Requirements ===
 
-<pre> warning
-This section has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/latest/reference/requirements/#general-requirements-for-all-srus
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/requirements/#general-requirements-for-all-srus
+}}}
 
 ==== Development Release Fixed First ====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/reference/requirements/#general-requirements-for-all-srus
+See: https://documentation.ubuntu.com/project/SRU/reference/requirements/#general-requirements-for-all-srus
 
 ==== Newer Releases ====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/reference/requirements/#general-requirements-for-all-srus
+See: https://documentation.ubuntu.com/project/SRU/reference/requirements/#general-requirements-for-all-srus
 
 === Procedure ===
 
-<pre> warning
-This section has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/latest/howto/standard/
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/howto/standard/
+}}}
 
 ==== SRU Bug Template ====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/reference/bug-template/
+See: https://documentation.ubuntu.com/project/SRU/reference/bug-template/
 
 ==== Bug references in changelogs ====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/reference/requirements/#bug-references-in-changelogs
+See: https://documentation.ubuntu.com/project/SRU/reference/requirements/#bug-references-in-changelogs
 
 ==== Staging an upload ====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/howto/special/#stage-an-upload
+See: https://documentation.ubuntu.com/project/SRU/howto/special/#stage-an-upload
 
 ===== Landing an upload blocked by staging =====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/howto/special/#land-an-upload-blocked-by-staging
+See: https://documentation.ubuntu.com/project/SRU/howto/special/#land-an-upload-blocked-by-staging
 
 ===== Responsibility for SRU verification and cancellation of incomplete verification =====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/explanation/non-standard-processes/#explanation-staged-uploads
+See: https://documentation.ubuntu.com/project/SRU/explanation/non-standard-processes/#explanation-staged-uploads
 
 === Publishing ===
 
-<pre> warning
-This section has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/latest/howto/release/
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/howto/release/
+}}}
 
 === Phasing ===
 
-<pre> warning
-This section has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/latest/explanation/standard-processes/#phasing
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/explanation/standard-processes/#phasing
+}}}
 
 ==== Investigation of Halted Phased Updates ====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/howto/phasing/
+See: https://documentation.ubuntu.com/project/SRU/howto/phasing/
 
 ==== SRU team documentation ====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/internal/#override-phasing
+See: https://documentation.ubuntu.com/project/SRU/internal/#override-phasing
 
 === Verification ===
 
-<pre> warning
-This section has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/latest/howto/standard/ and https://canonical-sru-docs.readthedocs-hosted.com/en/latest/howto/regression/#howto-report-regression
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/howto/standard/ and https://documentation.ubuntu.com/project/SRU/howto/regression/#howto-report-regression
+}}}
 
 ==== Autopkgtest Regressions ====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/howto/autopkgtest-failure/
+See: https://documentation.ubuntu.com/project/SRU/howto/autopkgtest-failure/
 
 ===== Expected resolution for reported autopkgtest failures =====
 
-See: https://canonical-sru-docs.readthedocs-hosted.com/en/latest/howto/autopkgtest-failure/
+See: https://documentation.ubuntu.com/project/SRU/howto/autopkgtest-failure/
 
 === Removal of updates ===
 
-<pre> warning
-This section has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/latest/explanation/non-standard-processes/#removal-of-languishing-updates
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/explanation/non-standard-processes/#removal-of-languishing-updates
+}}}
 
 === Regressions ===
 
-<pre> warning
-This section has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/latest/howto/regression/#howto-report-regression
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/howto/regression/#howto-report-regression
+}}}
 
 ==== Testing for Regressions ====
 
@@ -139,271 +139,271 @@ This section has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/l
 
 === Documentation for Special Cases ===
 
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/
 
 See the announcement: https://lists.ubuntu.com/archives/ubuntu-devel/2025-June/043391.html
-</pre>
+}}}
 
 ==== Kernel ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#kernel
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#kernel
+}}}
 
 ==== Landscape ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#landscape
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#landscape
+}}}
 
 ==== Snapd ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#snapd
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#snapd
+}}}
 
 ==== Snapcraft ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#snapcraft
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#snapcraft
+}}}
 
 ==== Ubuntu-image ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#ubuntu-image
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#ubuntu-image
+}}}
 
 ==== Docker.io group ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#docker-io-group
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#docker-io-group
+}}}
 
 ==== gce-compute-image-packages ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#gce-compute-image-packages
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#gce-compute-image-packages
+}}}
 
 ==== google-compute-engine ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#google-compute-engine
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#google-compute-engine
+}}}
 
 ==== google-compute-engine-oslogin ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#google-compute-engine-oslogin
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#google-compute-engine-oslogin
+}}}
 
 ==== google-guest-agent ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#google-guest-agent
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#google-guest-agent
+}}}
 
 ==== google-osconfig-agent ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#google-osconfig-agent
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#google-osconfig-agent
+}}}
 
 ==== curtin ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#curtin
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#curtin
+}}}
 
 ==== walinuxagent ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#walinuxagent
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#walinuxagent
+}}}
 
 ==== GNOME ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#gnome
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#gnome
+}}}
 
 ==== OpenStack ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#openstack
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#openstack
+}}}
 
 ==== Certbot ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#certbot
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#certbot
+}}}
 
 ==== cloud-init ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#cloud-init
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#cloud-init
+}}}
 
 ==== DPDK ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#dpdk
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#dpdk
+}}}
 
 ==== ubuntu-release-upgrader and python-apt ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#ubuntu-release-upgrader-and-python-apt
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#ubuntu-release-upgrader-and-python-apt
+}}}
 
 ==== apt and python-apt ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#apt-and-python-apt
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#apt-and-python-apt
+}}}
 
 ==== rax-nova-agent ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#rax-nova-agent
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#rax-nova-agent
+}}}
 
 ==== livecd-rootfs ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#livecd-rootfs
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#livecd-rootfs
+}}}
 
 ==== fwupd and fwupdate ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#fwupd-and-fwupdate
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#fwupd-and-fwupdate
+}}}
 
 ==== snapd-glib ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#snapd-glib
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#snapd-glib
+}}}
 
 ==== netplan.io ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#netplan-io
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#netplan-io
+}}}
 
 ==== ec2-hibinit-agent ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#ec2-hibinit-agent
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#ec2-hibinit-agent
+}}}
 
 ==== NVIDIA driver ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#nvidia-driver
-</pre> 
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#nvidia-driver
+}}} 
 
 ==== wslu ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#wslu
-</pre> 
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#wslu
+}}} 
 
 ==== openjdk-N ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#openjdk-n
-</pre> 
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#openjdk-n
+}}} 
 
 ==== Postfix ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#postfix
-</pre> 
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#postfix
+}}} 
 
 ==== sosreport/sos ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#sosreport-sos
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#sosreport-sos
+}}}
 
 ==== oem-*-meta ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#oem-meta
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#oem-meta
+}}}
 
 ==== ubuntu-dev-tools ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#ubuntu-dev-tools
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#ubuntu-dev-tools
+}}}
 
 ==== OpenLDAP ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#openldap
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#openldap
+}}}
 
 ==== HAProxy ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#haproxy
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#haproxy
+}}}
 
 ==== autopkgtest ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#autopkgtest
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#autopkgtest
+}}}
 
 ==== squid ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#squid
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#squid
+}}}
 
 ==== bind9 ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#bind9
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#bind9
+}}}
 
 ==== virtualbox ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#virtualbox
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#virtualbox
+}}}
 
 ==== ubuntu-advantage-tools ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#ubuntu-advantage-tools
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#ubuntu-advantage-tools
+}}}
 
 ==== open-vm-tools ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#open-vm-tools
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#open-vm-tools
+}}}
 
 ==== postgresql ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#postgresql
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#postgresql
+}}}
 
 ==== GRUB ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#grub
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#grub
+}}}
 
 ==== OpenVPN ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#openvpn
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#openvpn
+}}}
 
 ==== Language Packs (language-pack-*) ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#language-packs-language-pack
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#language-packs-language-pack
+}}}
 
 ==== cd-boot-images-<arch> ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#cd-boot-images-arch
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#cd-boot-images-arch
+}}}
 
 === Data Packages Kept in Sync with Security ===
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#data-packages-kept-in-sync-with-security
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#data-packages-kept-in-sync-with-security
+}}}
 
 ==== tzdata ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#tzdata
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#tzdata
+}}}
 
 ==== distro-info-data ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#distro-info-data
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#distro-info-data
+}}}
 
 ==== linux-firmware ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#linux-firmware
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#linux-firmware
+}}}
 
 ==== wireless-regdb ====
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#wireless-regdb
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#wireless-regdb
+}}}
 
 === Toolchain Updates ===
-<pre> warning
-This section has moved to https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/#toolchain-updates
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/package-specific/#toolchain-updates
+}}}
 
 === Examples ===
 
@@ -411,26 +411,26 @@ As a reference, see <nowiki>[[https://launchpad.net/bugs/173082|bug #173082]]</n
 
 === Package Removals ===
 
-<pre> warning
-This section has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/latest/explanation/non-standard-processes/#explanation-removals
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/explanation/non-standard-processes/#explanation-removals
+}}}
 
 === Links ===
 
-<pre> warning
-This section has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/latest/reference/status/
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/reference/status/
+}}}
 
 === Reviewing procedure and tools ===
 
-<pre> warning
-This section has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/latest/internal/#reviewing-procedure-and-tools
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/internal/#reviewing-procedure-and-tools
+}}}
 
 === Contacting the SRU team ===
 
-<pre> warning
-This section has moved to https://canonical-sru-docs.readthedocs-hosted.com/en/latest/howto/contact/
-</pre>
+{{{#!wiki warning
+This section has moved to https://documentation.ubuntu.com/project/SRU/howto/contact/
+}}}
 ----
 CategoryProcess

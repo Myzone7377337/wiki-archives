@@ -189,7 +189,7 @@ Care must be taken when preparing these releases as so to not break the upgrade 
 
 At the moment these 5 packages are handled by the Backport Team themselves.
 
-===== Exceptions =====
+===== Other Exceptions =====
 
 In addition to the above core development packages, other packages can be granted an exception to allow backports in non-LTS releases, on a case-by-case basis. Please contact the team if you want to request a non-LTS backport exception for a package.
 
@@ -200,6 +200,12 @@ At this <nowiki>[[https://irclogs.ubuntu.com/2023/11/29/%23ubuntu-meeting.txt|te
 * cockpit-podman
 
 A one-off exception was granted for non-LTS backports for `src:python-3parclient` with <nowiki>[[https://bugs.launchpad.net/ubuntu/+source/python-3parclient/+bug/2134516|Bug #2134516]]</nowiki> requesting a backport to intermediate releases as well.
+
+==== Other Backport Exceptions ====
+
+An exception to automatically accept the following packages was approved on 2026-07-22 via a mailing list discussion, and these packages are approved to be backported without needing to follow the standard backports process (and may be self-approved by their uploader who also has queue management access):
+
+* nginx-snippets
 
 == BPO Bug Template ==
 

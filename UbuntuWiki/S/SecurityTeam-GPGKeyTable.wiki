@@ -26,10 +26,6 @@ __TOC__
 | <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0x415010F1BA23C8C720DFB1F5F32172599D8D2E97|F32172599D8D2E97]]</nowiki>
 | <code> 4150 10F1 BA23 C8C7 20DF  B1F5 F321 7259 9D8D 2E97 </code>
 |-
-| <nowiki>[[https://launchpad.net/~chrisccoulson|Chris Coulson]]</nowiki>
-| <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0x44dfffe4c1a008e83229e205611fbdecd5946e0f|611FBDECD5946E0F]]</nowiki>
-| <code> 44DF FFE4 C1A0 08E8 3229  E205 611F BDEC D594 6E0F </code>
-|-
 | <nowiki>[[https://launchpad.net/~ebarretto|Eduardo Barretto]]</nowiki>
 | <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0x8386336B1A31066173815BE298F3007728F06B7C|98F3007728F06B7C]]</nowiki>
 | <code> 8386 336B 1A31 0661 7381  5BE2 98F3 0077 28F0 6B7C </code>
@@ -45,10 +41,6 @@ __TOC__
 | <nowiki>[[https://launchpad.net/~georgiag|Georgia Garcia]]</nowiki>
 | <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0xF763837EFAF24ADBF3567E5A0DC98647D37D791E|0DC98647D37D791E]]</nowiki>
 | <code> F763 837E FAF2 4ADB F356  7E5A 0DC9 8647 D37D 791E </code>
-|-
-| <nowiki>[[https://launchpad.net/~sespiros|Spyros Seimenis]]</nowiki>
-| <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0x8F06E0BAC0796B7ED5A363D2538B7C0DCCB5A3C9|538B7C0DCCB5A3C9]]</nowiki>
-| <code> 8F06 E0BA C079 6B7E D5A3  63D2 538B 7C0D CCB5 A3C9 </code>
 |-
 | <nowiki>[[https://launchpad.net/~rodrigo-zaiden|Rodrigo Zaiden]]</nowiki>
 | <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0x62BCA0771D460DE73D4D5F0467419E45C3399EDD|67419E45C3399EDD]]</nowiki>
@@ -69,14 +61,6 @@ __TOC__
 | <nowiki>[[https://launchpad.net/~0xnishit| Nishit Majithia]]</nowiki>
 | <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0xB35EBCD35C6717BC0ADEB08AEC873ACED468723C|EC873ACED468723C]]</nowiki>
 | <code> B35E BCD3 5C67 17BC 0ADE  B08A EC87 3ACE D468 723C </code>
-|-
-| <nowiki>[[https://launchpad.net/~fabiantoepfer| Fabian Toepfer]]</nowiki>
-| <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0xD9682DBE6C2672068404B967080BCAD50BC3E920|080BCAD50BC3E920]]</nowiki>
-| <code> D968 2DBE 6C26 7206 8404  B967 080B CAD5 0BC3 E920 </code>
-|-
-| <nowiki>[[https://launchpad.net/~evancaville| Evan Caville]]</nowiki>
-| <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=00F6164E9C2D21BAFBC47E0E58DAD120A6939167|58DAD120A6939167]]</nowiki>
-| <code> 00F6 164E 9C2D 21BA FBC4  7E0E 58DA D120 A693 9167 </code>
 |-
 | <nowiki>[[https://launchpad.net/~jslarraz| Jorge Sancho Larraz]]</nowiki>
 | <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=A3A55CBD534E85F96B33C3C646D98A9C81D6DFDE|46D98A9C81D6DFDE]]</nowiki>
@@ -154,10 +138,6 @@ __TOC__
 | <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?search=F3898AB33FCF5009FB617FB2AA112B18F1628D3F&fingerprint=on&op=index|AA112B18F1628D3F]]</nowiki>
 | <code> F389 8AB3 3FCF 5009 FB61  7FB2 AA11 2B18 F162 8D3F </code>
 |-
-| <nowiki>[[https://launchpad.net/~juliaphoebe|Julia Sarris]]</nowiki>
-| <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?search=38C77D33856973A58762FBFE401EFCBCDA0FF1BD&fingerprint=on&op=index|401EFCBCDA0FF1BD]]</nowiki>
-| <code> 38C7 7D33 8569 73A5 8762  FBFE 401E FCBC DA0F F1BD </code>
-|-
 | <nowiki>[[https://launchpad.net/~wqian|Alan Moore]]</nowiki>
 | <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?search=1CD4F9091C5D9AD83ABD0B00E37D9730029984CB&fingerprint=on&op=index|E37D9730029984CB]]</nowiki>
 | <code> 1CD4 F909 1C5D 9AD8 3ABD  0B00 E37D 9730 0299 84CB </code>
@@ -185,13 +165,33 @@ __TOC__
 | <nowiki>[[https://launchpad.net/~mrmajumder|Shafayat Hossain Majumder]]</nowiki>
 | <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0x5FA4328810B0321AE1AD7DC3BFA4F6851081F31D|BFA4F6851081F31D]]</nowiki>
 | <code> 5FA4 3288 10B0 321A E1AD  7DC3 BFA4 F685 1081 F31D </code>
+|-
+| <nowiki>[[https://launchpad.net/~kkernick|Kyle Kernick]]</nowiki>
+| <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0xB84838C414D2794598D0DC7BEED1F42EF8C0BDE7|EED1F42EF8C0BDE7]]</nowiki>
+| <code> B848 38C4 14D2 7945 98D0  DC7B EED1 F42E F8C0 BDE7 </code>
+|-
+| <nowiki>[[https://launchpad.net/~leosilvab|Leonidas Barbosa]]</nowiki>
+| <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0x7FE79B445728C8EA0042839E45BCE75B840B1F69|45BCE75B840B1F69]]</nowiki>
+| <code> 7FE7 9B44 5728 C8EA 0042  839E 45BC E75B 840B 1F69 </code>
+|-
+| <nowiki>[[https://launchpad.net/~igcontreras|Isabel Garcia]]</nowiki>
+| <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0x758754B80B29FE12B4CD68F1751BCFB32A0A68FA|751BCFB32A0A68FA]]</nowiki>
+| <code> 7587 54B8 0B29 FE12 B4CD  68F1 751B CFB3 2A0A 68FA </code>
+|-
+| <nowiki>[[https://launchpad.net/~charlescochran|Charles Cochran]]</nowiki>
+| <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0x6E81E64EEA227D003CB98776C029F0363FA97D17|C029F0363FA97D17]]</nowiki>
+| <code> 6E81 E64E EA22 7D00 3CB9  8776 C029 F036 3FA9 7D17 </code>
+|-
+| <nowiki>[[https://launchpad.net/~hurman|Hurman]]</nowiki>
+| <nowiki>[[https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0xB517EB7B0EA9770228330A15080B4AAD7B81E209|080B4AAD7B81E209]]</nowiki>
+| <code> B517 EB7B 0EA9 7702 2833  0A15 080B 4AAD 7B81 E209 </code>
 |}
 
-Group key receival:
+Group key retrieval:
 
 {| class="wikitable"
 |-
-| gpg --keyserver keyserver.ubuntu.com --recv-keys 6569D855A744BE93 052F367018D5C3D8 !F32172599D8D2E97 611FBDECD5946E0F 45BCE75B840B1F69 98F3007728F06B7C 6D4A7990BDE2CC66 CD432CBF707904EC 0DC98647D37D791E 538B7C0DCCB5A3C9 67419E45C3399EDD 6B5F8F2FE775FC48 EDD0EA1FDFCFE8FA 13498F032CCFE9DA EC873ACED468723C 080BCAD50BC3E920 58DAD120A6939167 46D98A9C81D6DFDE 8469974868A49E75 EC3B6B6A6F60C8C3 C6602BC7B86A3ED0 738BDD02ABDD96C6 33D6780C08BD8BCD !F0B61460B04C4B56 27BC4FFA445939B8 0BE76EF9F3A3884C 199C5BF4DFD60328 DE05D098EFD3AF7C 703AAD91046CD76E A3BFF6168D217C0C B86AEDCE8B7BA4E7 635C65FF1ED4BA87 E02CCF719653F2E4  3E3A80516A22B394 BB05ADC4298B2829 AA112B18F1628D3F 401EFCBCDA0FF1BD E37D9730029984CB C9F5B69BD2DDBBAB !F294825506581F28 B6F2490E12CCDC93 3BAF7D5D0EF9A4AA AB9FD624CA6A421D BFA4F6851081F31D
+| gpg --keyserver keyserver.ubuntu.com --recv-keys 6569D855A744BE93 052F367018D5C3D8 !F32172599D8D2E97 611FBDECD5946E0F 98F3007728F06B7C 6D4A7990BDE2CC66 CD432CBF707904EC 0DC98647D37D791E 538B7C0DCCB5A3C9 67419E45C3399EDD 6B5F8F2FE775FC48 EDD0EA1FDFCFE8FA 13498F032CCFE9DA EC873ACED468723C 080BCAD50BC3E920 58DAD120A6939167 46D98A9C81D6DFDE 8469974868A49E75 EC3B6B6A6F60C8C3 C6602BC7B86A3ED0 738BDD02ABDD96C6 33D6780C08BD8BCD !F0B61460B04C4B56 27BC4FFA445939B8 0BE76EF9F3A3884C 199C5BF4DFD60328 DE05D098EFD3AF7C 703AAD91046CD76E A3BFF6168D217C0C B86AEDCE8B7BA4E7 635C65FF1ED4BA87 E02CCF719653F2E4 3E3A80516A22B394 BB05ADC4298B2829 AA112B18F1628D3F E37D9730029984CB C9F5B69BD2DDBBAB !F294825506581F28 B6F2490E12CCDC93 3BAF7D5D0EF9A4AA AB9FD624CA6A421D BFA4F6851081F31D EED1F42EF8C0BDE7 45BCE75B840B1F69 751BCFB32A0A68FA C029F0363FA97D17 080B4AAD7B81E209
 |}
 
 ----

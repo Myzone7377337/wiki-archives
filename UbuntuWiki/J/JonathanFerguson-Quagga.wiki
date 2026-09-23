@@ -27,15 +27,15 @@ __TOC__
 <<BR>>`sudo sysctl -p`
 <<BR>>
 <<BR>>Create the configuration files:
-<<BR>>`sudo nano `<nowiki>[[attachment:bgpd.conf|-etc-quagga-bgpd.conf]]</nowiki>
-<<BR>>`sudo nano `<nowiki>[[attachment:isisd.conf|-etc-quagga-isisd.conf]]</nowiki>
-<<BR>>`sudo nano `<nowiki>[[attachment:ospf6d.conf|-etc-quagga-ospf6d.conf]]</nowiki>
-<<BR>>`sudo nano `<nowiki>[[attachment:ospfd.conf|-etc-quagga-ospfd.conf]]</nowiki>
-<<BR>>`sudo nano `<nowiki>[[attachment:pimd.conf|-etc-quagga-pimd.conf]]</nowiki>
-<<BR>>`sudo nano `<nowiki>[[attachment:ripd.conf|-etc-quagga-ripd.conf]]</nowiki>
-<<BR>>`sudo nano `<nowiki>[[attachment:ripngd.conf|-etc-quagga-ripngd.conf]]</nowiki>
-<<BR>>`sudo nano `<nowiki>[[attachment:vtysh.conf|-etc-quagga-vtysh.conf]]</nowiki>
-<<BR>>`sudo nano `<nowiki>[[attachment:zebra.conf|-etc-quagga-zebra.conf]]</nowiki>
+<<BR>>`sudo nano `<nowiki>[[attachment:bgpd.conf|/etc/quagga/bgpd.conf]]</nowiki>
+<<BR>>`sudo nano `<nowiki>[[attachment:isisd.conf|/etc/quagga/isisd.conf]]</nowiki>
+<<BR>>`sudo nano `<nowiki>[[attachment:ospf6d.conf|/etc/quagga/ospf6d.conf]]</nowiki>
+<<BR>>`sudo nano `<nowiki>[[attachment:ospfd.conf|/etc/quagga/ospfd.conf]]</nowiki>
+<<BR>>`sudo nano `<nowiki>[[attachment:pimd.conf|/etc/quagga/pimd.conf]]</nowiki>
+<<BR>>`sudo nano `<nowiki>[[attachment:ripd.conf|/etc/quagga/ripd.conf]]</nowiki>
+<<BR>>`sudo nano `<nowiki>[[attachment:ripngd.conf|/etc/quagga/ripngd.conf]]</nowiki>
+<<BR>>`sudo nano `<nowiki>[[attachment:vtysh.conf|/etc/quagga/vtysh.conf]]</nowiki>
+<<BR>>`sudo nano `<nowiki>[[attachment:zebra.conf|/etc/quagga/zebra.conf]]</nowiki>
 <<BR>>
 <<BR>>Change the owner and the mode of the configuration files:
 <<BR>>`sudo chown quagga:quagga /etc/quagga/bgpd.conf && sudo chmod 640 /etc/quagga/bgpd.conf`

@@ -10,20 +10,20 @@ __TOC__
 
 == GDM SRU Smartcard Testing ==
 
-Smartcard login with the various GDM profiles can be simluated using software smartcards, a "simplified" way is to use <nowiki>[[https://gist.github.com/3v1n0/287d02ca8e03936f1c7bba992173d47a|these scripts]]</nowiki> that create certificates and virtual smartcards.
+Smartcard login with the various GDM profiles can be simluated using software smartcards, a "simplified" way is to use <nowiki>[[https://salsa.debian.org/gnome-team/gdm/-/blob/debian/latest/debian/tests/sssd-gdm-smartcard-pam-auth-tester.sh?ref_type=heads|these scripts]]</nowiki> that create certificates and virtual smartcards.
 
 While they should not be destructive by default (as they are designed to restore everything they change at system level), it's recommended to test the scripts in a VM with SSH access so that it's easier to verify the outcome.
 
 <pre>
 sudo apt install softhsm2 pamtester openssl
 sudo apt-mark auto softhsm2 pamtester
-git clone https://gist.github.com/3v1n0/287d02ca8e03936f1c7bba992173d47a gdm-smartcard-testing
+git clone https://salsa.debian.org/gnome-team/gdm gdm
 </pre>
 
 Now in a SSH terminal (or a tty) run:
 
 <pre>
-sudo env PIN=554433 WAIT=1 ./gdm-smartcard-testing/sssd-gdm-smartcard-pam-auth-tester.sh
+sudo env PIN=554433 WAIT=1 bash ./gdm/debian/tests/sssd-gdm-smartcard-pam-auth-tester.sh
 </pre>
 
 Once gdm will be started, it will try the smartcard authentication at first, so type the user name you want to log in with (but only the user that launched the previous command with `sudo` will be the one allowed).

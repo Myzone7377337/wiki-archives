@@ -8,6 +8,7 @@
 
 __TOC__
 
+Note: some of this has become <nowiki>[[https://documentation.ubuntu.com/project/who-makes-ubuntu/developers/dmb-aspects-of-a-good-application/|formal DMB documentation]]</nowiki> now, but this text remains for posterity and to reflect Robie's personal opinion. 
 
 I originally wrote this document specifically for the case of core dev
 applications. To make it more general, you can read it more generally with the

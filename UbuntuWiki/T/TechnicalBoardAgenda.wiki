@@ -14,21 +14,12 @@ If you have a question to raise with the Board, you can reach the Technical Boar
 
 The meeting schedule is available on the <nowiki>[[https://wiki.ubuntu.com/Fridge/Calendar|fridge calendar]]</nowiki>.  We meet in channel '''#ubuntu-meeting''' on <nowiki>[[https://libera.chat/|Libera.Chat]]</nowiki>.
 
-The next meeting is set for <nowiki>[[https://www.timeanddate.com/worldclock/converter.html?iso=20250127T200000&p1=179&p2=1440&p3=136|2026-01-27, 20:00 London time]]</nowiki>. chair: teward, backup: (any TB member).
+The next meeting is set for <nowiki>[[https://www.timeanddate.com/worldclock/converter.html?iso=20250602T190000&p1=tz_et&p2=1440&p3=136&p4=22|2026-06-30, 20:00 London time]]</nowiki>. chair: mwhudson, backup: rbasak.
 
 The agenda will include the following:
 
 * Action review:
-** teward to follow up with "who can vote" and documentation at https://ubuntu.com/community/governance/technical-board with the CC (carried over)
-** Provide feedback in "RFC: SRU Exception for transitional hardware enablements (tHWE)" thread once additional data is made available (waiting on PE team data)
-* snapd SRU exception request (https://lists.ubuntu.com/archives/technical-board/2025-September/003050.html and https://code.launchpad.net/~ernestl/sru-docs/+git/sru-docs/+merge/493382)
-** Notes:
-**** snapd SRU exception request needs further discussion, remains as an active agenda item for discussion
-**** snapd SRU exception request discussion has opened up policy questions that require further discussio
-** Relevant Links:
-**** https://lists.ubuntu.com/archives/technical-board/2025-September/003050.html
-**** https://code.launchpad.net/~ernestl/sru-docs/+git/sru-docs/+merge/493382
-**** https://documentation.ubuntu.com/project/tech-board/3rd-party-software-sources/
+** review revised snapd SRU exception proposal https://github.com/ubuntu/ubuntu-project-docs/pull/542
 * Scan the <nowiki>[[https://lists.ubuntu.com/archives/technical-board/|mailing list archive]]</nowiki> for anything we missed (standing item)
 * Check up on <nowiki>[[https://bugs.launchpad.net/ubuntu-community/+bugs?field.assignee=techboard|community bugs]]</nowiki> and <nowiki>[[https://bugs.launchpad.net/techboard|techboard bugs]]</nowiki> (standing item)
 * Select a chair for the next meeting (next from https://launchpad.net/~techboard/+members)

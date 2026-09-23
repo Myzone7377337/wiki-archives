@@ -8,6 +8,7 @@
 
 __TOC__
 
+
 == Ubuntu Packaging Guide Specification ==
 # '''Audience:''' Experienced users who wish to make Ubuntu packages
 # '''Document Outline:''' See the Document Outline section below.
@@ -46,7 +47,7 @@ The Packaging Guide is the official guide for people wanting to build and mainta
 
 === Resources ===
 
-<nowiki>[[MOTU/Documentation]]</nowiki> also has a list of wiki and web
+<nowiki>[[MOTU-Documentation]]</nowiki> also has a list of wiki and web
 resources for packaging. We should try to incorporate as much as we
 can and clean the wiki as well.
 

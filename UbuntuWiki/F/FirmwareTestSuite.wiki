@@ -30,9 +30,9 @@ UEFI Forum Board of Directors announces Firmware Test Suite (FWTS) has been reco
 
 == Download ==
 
-The latest version is 26.01.00, which can be downloaded at <nowiki>[[https://github.com/fwts/fwts/archive/refs/tags/V26.01.00.tar.gz]]</nowiki> or <nowiki>[[http://fwts.ubuntu.com/release/fwts-V26.01.00.tar.gz]]</nowiki>. its release notes can be found <nowiki>[[FirmwareTestSuite-ReleaseNotes-26.01.00 | here]]</nowiki>.
+The latest version is 26.07.00, which can be downloaded at <nowiki>[[https://github.com/fwts/fwts/releases/download/V26.07.00/fwts-V26.07.00.tar.gz]]</nowiki>. Its release notes can be found <nowiki>[[https://github.com/fwts/fwts/releases/tag/V26.07.00 | here]]</nowiki>.
 
-Past releases can be downloaded from <nowiki>[[http://fwts.ubuntu.com/release/]]</nowiki>, and their release notes can be found on <nowiki>[[FirmwareTestSuite-ReleaseNotes | this page]]</nowiki>.
+Past releases can be downloaded from <nowiki>[[https://github.com/fwts/fwts/releases]]</nowiki>, and their release notes can be found on <nowiki>[[FirmwareTestSuite-ReleaseNotes | this page]]</nowiki>.
 
 === PPA ===
 

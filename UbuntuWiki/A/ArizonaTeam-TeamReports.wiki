@@ -16,9 +16,26 @@ Welcome to the AZLOCO reporting page
 
 === Current Report ===
 
-https://wiki.ubuntu.com/ArizonaTeam/TeamReports/26/January
+https://wiki.ubuntu.com/ArizonaTeam/TeamReports/26/September
 
 === Previous Reports ===
+
+==== 2026 ====
+https://wiki.ubuntu.com/ArizonaTeam/TeamReports/26/August
+
+https://wiki.ubuntu.com/ArizonaTeam/TeamReports/26/July
+
+https://wiki.ubuntu.com/ArizonaTeam/TeamReports/26/June
+
+https://wiki.ubuntu.com/ArizonaTeam/TeamReports/26/May
+
+https://wiki.ubuntu.com/ArizonaTeam/TeamReports/26/April
+
+https://wiki.ubuntu.com/ArizonaTeam/TeamReports/26/March
+
+https://wiki.ubuntu.com/ArizonaTeam/TeamReports/26/February
+
+https://wiki.ubuntu.com/ArizonaTeam/TeamReports/26/January
 
 ==== 2025 ====
 https://wiki.ubuntu.com/ArizonaTeam/TeamReports/25/December

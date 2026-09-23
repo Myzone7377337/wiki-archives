@@ -27,31 +27,31 @@ Sunday Jan 06 2008 starting at 9.15
 * if possible, please also bring a power strip, power cable, ethernet cable, switch
 * confirmed: BenjaminSion, MarkVanDenBorre, FrancoisCauwe, ChristopheVandeplas, SebastianSchauenburg, PierreBuyle, JanClaeys, DieterVanderfaeillie (morning), AlexandreLaurent, BartBroeckx, KoenWybo, Koen Vervloesem, StephanvanIngen, David Geens, KevinElaerts, RobVanDyck (morning)
 * to be confirmed: CédricJanssens, GlennSouth
-* unfortunately not able to make it: PieterVerledens, PierreVorhagen, RoelHuybrechts, WouterHorré, AnneliesBollen, BenoîtPlunus, DennisKaarsemaker, WesleyStessens
+* unfortunately not able to make it: PieterVerledens, RoelHuybrechts, WouterHorré, AnneliesBollen, BenoîtPlunus, DennisKaarsemaker, WesleyStessens
 
 === Schedule ===
-(<nowiki>[[/how_this_schedule_was_decided]]</nowiki>)
+(<nowiki>[[-how_this_schedule_was_decided]]</nowiki>)
 * 9.00 AM: MarkVandenBorre, ChristopheVandeplas, FrançoisCauwe and DieterVanderfaeillie prepare the room
 * 9.15-9.45: participants starts trickling in.
-* 10.00-10.20: <nowiki>[[/short intro]]</nowiki> (MarkVandenBorre)
+* 10.00-10.20: <nowiki>[[-short intro]]</nowiki> (MarkVandenBorre)
 * 10.30-11.30:
-** session 1A: <nowiki>[[/use_of_ubuntu_in_education]]</nowiki> (DieterVanderfaeillie)
-** session 1B: <nowiki>[[/support_points_map]]</nowiki> (PierreBuyle)
+** session 1A: <nowiki>[[-use_of_ubuntu_in_education]]</nowiki> (DieterVanderfaeillie)
+** session 1B: <nowiki>[[-support_points_map]]</nowiki> (PierreBuyle)
 * 11.30-12.30:
-** session 2A: <nowiki>[[/fairs_-_past_&_plans]]</nowiki> (MarkVandenBorre)
-** session 2B: <nowiki>[[/promotional_materials]]</nowiki> (FrancoisCauwe)
+** session 2A: <nowiki>[[-fairs_-_past_&_plans]]</nowiki> (MarkVandenBorre)
+** session 2B: <nowiki>[[-promotional_materials]]</nowiki> (FrancoisCauwe)
 * 12.30-14.00: noon break
 * 14.00-15.00:
-** session 3A: <nowiki>[[/cooperation_with_nl,_fr,_de]]</nowiki> (SebastianSchauenburg tbc)
-** session 3B: <nowiki>[[/coordination_within_ubuntu-be.org]]</nowiki>: fr-nl-de, private information,... (ChristopheVandeplas tbc)
+** session 3A: <nowiki>[[-cooperation_with_nl,_fr,_de]]</nowiki> (SebastianSchauenburg tbc)
+** session 3B: <nowiki>[[-coordination_within_ubuntu-be.org]]</nowiki>: fr-nl-de, private information,... (ChristopheVandeplas tbc)
 * 15.00-16.00:
-** session 4A: <nowiki>[[/ubuntu 8.04 lts and press]]</nowiki> (KoenVervloesem tbc)
-** session 4B: <nowiki>[[/website]]</nowiki>
+** session 4A: <nowiki>[[-ubuntu 8.04 lts and press]]</nowiki> (KoenVervloesem tbc)
+** session 4B: <nowiki>[[-website]]</nowiki>
 * 16.00-16.30: short break
 * 16.30-17.30:
-** session 5A: <nowiki>[[/education on ubuntu]]</nowiki> (KoenWybo )
-** session 5B: <nowiki>[[/PR_in_general]]</nowiki>
-* 17.30-18.00: <nowiki>[[/closing_discussion]]</nowiki> (MarkVandenBorre) + cleanup
+** session 5A: <nowiki>[[-education on ubuntu]]</nowiki> (KoenWybo )
+** session 5B: <nowiki>[[-PR_in_general]]</nowiki>
+* 17.30-18.00: <nowiki>[[-closing_discussion]]</nowiki> (MarkVandenBorre) + cleanup
 * food with interested participants
 
 === Logistics ===
@@ -104,24 +104,24 @@ Sunday Jan 06 2008 starting at 9.15
 
 <nowiki>[[http://www.indymedia.be/index.html%3Fq=node%252F25493.html]]</nowiki>
 
-<nowiki>[[BelgianTeam/2008kickoff]]</nowiki>
+<nowiki>[[BelgianTeam-2008kickoff]]</nowiki>
 
-<nowiki>[[BelgianTeam/2008kickoff/PR_in_general]]</nowiki>
+<nowiki>[[BelgianTeam-2008kickoff-PR_in_general]]</nowiki>
 
-<nowiki>[[BelgianTeam/2008kickoff/closing_discussion]]</nowiki>
+<nowiki>[[BelgianTeam-2008kickoff-closing_discussion]]</nowiki>
 
-<nowiki>[[BelgianTeam/2008kickoff/cooperation_with_nl,_fr,_de]]</nowiki>
+<nowiki>[[BelgianTeam-2008kickoff-cooperation_with_nl,_fr,_de]]</nowiki>
 
-<nowiki>[[BelgianTeam/2008kickoff/coordination_within_ubuntu-be.org]]</nowiki>
+<nowiki>[[BelgianTeam-2008kickoff-coordination_within_ubuntu-be.org]]</nowiki>
 
-<nowiki>[[BelgianTeam/2008kickoff/fairs_-_past_&_plans]]</nowiki>
+<nowiki>[[BelgianTeam-2008kickoff-fairs_-_past_&_plans]]</nowiki>
 
-<nowiki>[[BelgianTeam/2008kickoff/how_this_schedule_was_decided]]</nowiki>
+<nowiki>[[BelgianTeam-2008kickoff-how_this_schedule_was_decided]]</nowiki>
 
-<nowiki>[[BelgianTeam/2008kickoff/promotional_materials]]</nowiki>
+<nowiki>[[BelgianTeam-2008kickoff-promotional_materials]]</nowiki>
 
-<nowiki>[[BelgianTeam/2008kickoff/support_points_map]]</nowiki>
+<nowiki>[[BelgianTeam-2008kickoff-support_points_map]]</nowiki>
 
-<nowiki>[[BelgianTeam/2008kickoff/use_of_ubuntu_in_education]]</nowiki>
+<nowiki>[[BelgianTeam-2008kickoff-use_of_ubuntu_in_education]]</nowiki>
 
-<nowiki>[[BelgianTeam/2008kickoff/website]]</nowiki>
+<nowiki>[[BelgianTeam-2008kickoff-website]]</nowiki>

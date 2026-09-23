@@ -14,7 +14,7 @@ __TOC__
 
 == UEFI ==
 
-There is a good wiki page about <nowiki>[[https://help.ubuntu.com/community/UEFI|booting with UEFI]]</nowiki>, and a good tutorial thread, <nowiki>[[http://ubuntuforums.org/showthread.php?t=2147295|UEFI Installing - Tips]]</nowiki>.
+There is a good wiki page about <nowiki>[[https://help.ubuntu.com/community/UEFI|booting with UEFI]]</nowiki>, and a good tutorial thread, <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2147295|UEFI Installing - Tips]]</nowiki>.
 
 === Boot and install ===
 
@@ -24,7 +24,7 @@ If you want to boot in UEFI mode and install your Ubuntu flavour alongside Windo
 
 Make the boot drive with for example mkusb, Disks, the new Ubuntu Startup Disk Creator (version 0.3.2) or the Win32 Disk Imager. These tools '''clone the iso file''' and are likely to succeed. Some 'grub and ISO' systems work in UEFI mode, others work only in BIOS mode. Syslinux does '''not''' work in UEFI mode.
 
-If you have problems, try another tool to create the USB boot drive. You can also try the '''simple extraction''' described in <nowiki>[[http://ubuntuforums.org/showthread.php?t=2299040|this link]]</nowiki>. It works [only] in UEFI mode.
+If you have problems, try another tool to create the USB boot drive. You can also try the '''simple extraction''' described in <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2299040|this link]]</nowiki>. It works [only] in UEFI mode.
 
 === Test if running in UEFI mode ===
 
@@ -42,19 +42,19 @@ if test -d /sys/firmware/efi; then echo efi; else echo bios; fi
 
 ==== Persistent USB drive that works with UEFI and BIOS ====
 
-A persistent USB install of *buntu, usable with both Legacy and UEFI systems is described in the following <nowiki>[[http://ubuntuforums.org/showthread.php?t=2108487&page=2&p=12656460#post12656460|post at the Ubuntu Forums]]</nowiki>
+A persistent USB install of *buntu, usable with both Legacy and UEFI systems is described in the following <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2108487&page=2&p=12656460#post12656460|post at the Ubuntu Forums]]</nowiki>
 
 ==== One pendrive for all PC (Intel/AMD) computers ====
 
-You may want a 'Swiss Army Knife' pendrive, that works in most computers, from old 32-bit computers via 64-bit computers in BIOS mode to computers running in UEFI mode. It is useful for travelling and borrowing computers or for installing. There is a compressed image file and also a recipe how to make it, so that you can extend it or change it for what you need. See this <nowiki>[[http://ubuntuforums.org/showthread.php?t=2259682|tutorial about One pendrive for all (Intel/AMD) PC computers]]</nowiki>.
+You may want a 'Swiss Army Knife' pendrive, that works in most computers, from old 32-bit computers via 64-bit computers in BIOS mode to computers running in UEFI mode. It is useful for travelling and borrowing computers or for installing. There is a compressed image file and also a recipe how to make it, so that you can extend it or change it for what you need. See this <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2259682|tutorial about One pendrive for all (Intel/AMD) PC computers]]</nowiki>.
 
 ==== A new and so far successful attempt to create a stable portable system, that works in UEFI and BIOS mode ====
 
 If you want a pendrive with a live '''and''' an installed system, that works in UEFI and BIOS mode, you can try 
 
-* <nowiki>[[http://ubuntuforums.org/showthread.php?t=2213631&p=13262506#post13262506|A new and so far successful attempt to create a stable portable system, that works in UEFI and BIOS mode]]</nowiki>,
-* <nowiki>[[http://ubuntuforums.org/showthread.php?t=2213631&page=4&p=13426191#post13426191|Compressed image file with a live Ubuntu 14.04.2 and an installed Ubuntu 15.10]]</nowiki> and
-* <nowiki>[[http://ubuntuforums.org/showthread.php?t=2213631&page=4&p=13468260#post13468260|Another new, simpler and so far successful attempt to create a stable portable system, that works in UEFI and BIOS mode]]</nowiki>
+* <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2213631&p=13262506#post13262506|A new and so far successful attempt to create a stable portable system, that works in UEFI and BIOS mode]]</nowiki>,
+* <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2213631&page=4&p=13426191#post13426191|Compressed image file with a live Ubuntu 14.04.2 and an installed Ubuntu 15.10]]</nowiki> and
+* <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=2213631&page=4&p=13468260#post13468260|Another new, simpler and so far successful attempt to create a stable portable system, that works in UEFI and BIOS mode]]</nowiki>
 
 ==== Installed system: add an ESP to an existing installation with MBR ====
 

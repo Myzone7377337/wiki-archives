@@ -105,6 +105,9 @@ If a profile is not available for an application, users may create a profile and
 ** Ubuntu 25.10 (Questing Quokka)
 ** <nowiki>[[https://manpages.ubuntu.com/manpages/questing/en/man7/apparmor.7.html|apparmor man page]]</nowiki>
 ** <nowiki>[[https://manpages.ubuntu.com/manpages/questing/en/man5/apparmor.d.5.html|apparmor.d man page]]</nowiki>
+** Ubuntu 26.04 (Resolute Raccoon)
+** <nowiki>[[https://manpages.ubuntu.com/manpages/resolute/en/man7/apparmor.7.html|apparmor man page]]</nowiki>
+** <nowiki>[[https://manpages.ubuntu.com/manpages/resolute/en/man5/apparmor.d.5.html|apparmor.d man page]]</nowiki>
 ** Technical documentation can be found in <code>/usr/share/doc/apparmor-docs/techdoc.pdf.gz</code> from apparmor-docs package
 ** <nowiki>[[https://gitlab.com/apparmor/apparmor/-/wikis/Documentation|AppArmor upstream documentation]]</nowiki>
 ** <nowiki>[[http://wiki.apparmor.net/|AppArmor upstream wiki]]</nowiki>

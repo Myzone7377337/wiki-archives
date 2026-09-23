@@ -19,3 +19,5 @@ __TOC__
 * 6 attendees
 * Discussed Libre Office Calc
 * Received update on the status of the 28 computers that we received from the American Southwest credit Union.  Only two remaining to be cleaned and have Ubuntu installed on them.
+17 January - Virtual AZLOCO/PLUG Linux Workshop
+* 3 attendees.
