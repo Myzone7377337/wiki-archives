@@ -8,31 +8,44 @@
 
 __TOC__
 
-=== ¿Por qué ser Miembro? ===
+== ¿Quieres ser miembro oficial de Ubuntu Colombia? ==
 
-{| class="wikitable"
-|-
-| {*} <nowiki>[[https://wiki.ubuntu.com/ColombianTeam/PorQueSerMiembro | Click aquí para informarse sobre por que debes ser miembro de Ubuntu Colombia ]]</nowiki>
-|}
+Ser miembro reconocido te da voz en la comunidad y tu nombre queda registrado oficialmente en Launchpad como parte de la familia Ubuntu. ¡Y es completamente gratis!
 
-=== Petición de membresía de Ubuntu Colombia ===
-<nowiki>[[ColombianTeam-NuevosMiembrosEN| Also available in English]]</nowiki>
+=== Beneficios ===
 
-''Por favor tenga en cuenta que al obtener membresía del equipo colombiano de Ubuntu, no es equivalente a ser un <nowiki>[[http://www.ubuntu.com/community/processes/newmember|Miembro Ubuntu]]</nowiki>.''
+* '''Reconocimiento oficial''' — Tu nombre aparece en Launchpad como miembro verificado de <nowiki>[[https://launchpad.net/~ubuntu-co/+members#active|Ubuntu Colombia]]</nowiki>
+* '''Participación activa''' — Puedes proponer actividades, eventos y proyectos a la comunidad
+* '''Credibilidad''' — Tu perfil público en Launchpad respalda tu trayectoria en open source
+* '''Acceso a equipos''' — Puedes unirte a equipos de traducción, documentación, empaquetado y más
+* '''Visibilidad''' — Haces parte visible de la comunidad Ubuntu en Colombia
+* '''Valor profesional''' — Es un aval real de tu compromiso con el software libre
 
-La membresía está abierta a cualquier individuo (colombiano o no) interesado en contribuir al equipo colombiano de Ubuntu dentro de su <nowiki>[[ColombianTeam| misión y objetivos]]</nowiki>. La membresía tiene duración de '''un año''', y expira automáticamente a menos que solicite <nowiki>[[ColombianTeam-RenovacionMembresia| renovarla]]</nowiki>. Consideramos que es un lapso razonable para confirmar y renovar interés y participación sostenidos si quiere seguir siendo miembro.
+Todo esto es '''100% gratuito''' y toma menos de 10 minutos.
 
-'''POR FAVOR NO SOLICITE LA MEMBRESÍA SI NO HA COMPLETADO TODAS LAS ETAPAS'''.
+=== Pasos para unirte ===
 
-Si desea registrarse con éste equipo, por favor complete las siguientes etapas:
+==== 1. Crea tu cuenta en Launchpad ====
+Regístrate y verifica tu correo en <nowiki>[[https://launchpad.net/+login|launchpad.net]]</nowiki>.
 
-{| class="wikitable"
-|-
-| {*} <nowiki>[[https://wiki.ubuntu.com/ColombianTeam/NuevosMiembros/CodigoDeConducta | Firmar el código de conducta ]]</nowiki>
-|}
+==== 2. Firma el Código de Conducta de Ubuntu ====
+Es el compromiso con los valores de respeto, colaboración y apertura de la comunidad. Usa nuestro asistente paso a paso (funciona en Windows, Linux y Mac):
 
-Uno de los administradores voluntarios revisarán su solicitud dentro de los 5 días hábiles siguientes.
+<nowiki>[[https://gitlab.com/ubuntu-colombia/firmar-coc|gitlab.com/ubuntu-colombia/firmar-coc]]</nowiki>
 
-'''DE NUEVO, NO SOLICITE LA MEMBRESÍA SI NO HA COMPLETADO TODAS LAS ETAPAS'''.
+==== 3. Únete al equipo Ubuntu Colombia ====
+Solicita membresía en <nowiki>[[https://launchpad.net/~ubuntu-co|launchpad.net/~ubuntu-co]]</nowiki>.
 
-Una vez haya sido aceptado como miembro del equipo colombiano de Ubuntu, aconsejamos fuertemente considerar también convertirse en "<nowiki>[[https://wiki.ubuntu.com/Membership/NewMember|Ubuntu Member]]</nowiki>".
+==== 4. Únete a la lista de correo y preséntate ====
+Suscríbete en <nowiki>[[https://lists.ubuntu.com/mailman/listinfo/Ubuntu-co|lists.ubuntu.com/mailman/listinfo/Ubuntu-co]]</nowiki>
+
+Luego envía un correo a <nowiki>[[mailto:ubuntu-co@lists.ubuntu.com|ubuntu-co@lists.ubuntu.com]]</nowiki> presentándote con:
+
+* Tu nombre
+* Ciudad
+* ¿Desde cuándo usas Linux/Ubuntu?
+* ¿En qué te gustaría contribuir?
+
+=== ¿Cómo renuevo mi membresía? ===
+
+Launchpad te enviará un correo cuando tu membresía esté próxima a expirar. Solo debes ingresar a tu perfil y hacer clic en «'''Renew'''». Sin ese paso, perderás el estado de miembro activo.

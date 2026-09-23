@@ -10,7 +10,7 @@ __TOC__
 
 == Ubuntu Full Circle Magazine - Issue Index ==
 
-Tables of contents for Full Circle Magazine issues 0-224.
+Tables of contents for Full Circle Magazine issues 0-232.
 The magazine is available in both PDF & epub formats.
 
 Download from https://fullcirclemagazine.org/
@@ -20,7 +20,810 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-224- | Issue-224 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-232/ | Issue-232 ]]</nowiki>'''
+| ''August 2026''
+|-
+| '''Page'''
+| '''Article'''
+| '''Author'''
+| '''Keyword'''
+|-
+| 3
+| Editorial
+| Ronnie Tucker
+| Editorial
+|-
+| 4
+| News
+| ErikTheUnready
+| News
+|-
+| 16
+| Command & Conquer – Ubuntu backports inc. OBS Studio
+| ErikTheUnready
+| Terminal
+|-
+| 18
+| Build Your Own Wiki – Part 3
+| Bruce Goodman
+| How to
+|-
+| 21
+| Blank
+| None
+| How to
+|-
+| 22
+| Latex  – 53 – Project One: A Brochure
+| Robert Boardman
+| LaTeX
+|-
+| 25
+| Inkscape 172 – Extensions 5 Gcodetools
+| Mark Crutch
+| Inkscape
+|-
+| 32
+| Bodhi Corner – Back next month
+| Joseph Wiley
+| Distros
+|-
+| 33
+| UBports – Back next month
+| UBports Team
+| Ubuntu Devices
+|-
+| 35
+| My Opinion – Back next month
+| None
+| Opinion
+|-
+| 36
+| Write for Full Circle Magazine
+| Ronnie Tucker
+| Submissions
+|-
+| 37
+| Review – Ubuntu Unity 26.04 (not LTS)
+| Adam Hunt
+| Distros
+|-
+| 41
+| Review – Ubuntu Sway Remix 26.04 LTS
+| Adam Hunt
+| Distros
+|-
+| 46
+| Letters -  Back next month
+| Readers
+| Letters
+|-
+| 47
+| Q & A
+| ErikTheUnready
+| Q & A
+|-
+| 50
+| Games – Tormentum II
+| ErikTheUnready
+| Games
+|-
+| 53
+| Patrons
+| Ronnie Tucker
+| Patrons
+|-
+| 54
+| How to Contribute
+| Ronnie Tucker
+| Submissions
+|}
+----
+{| class="wikitable"
+|-
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-231/ | Issue-231 ]]</nowiki>'''
+| ''July 2026''
+|-
+| '''Page'''
+| '''Article'''
+| '''Author'''
+| '''Keyword'''
+|-
+| 3
+| Editorial
+| Ronnie Tucker
+| Editorial
+|-
+| 4
+| News
+| ErikTheUnready
+| News
+|-
+| 18
+| Command & Conquer – apt vs apt-get & Synaptic Package Manager
+| ErikTheUnready
+| Terminal
+|-
+| 20
+| Build Your Own Wiki – Part 2
+| Bruce Goodman
+| How to
+|-
+| 23
+| Block and Delay System Shutdowns
+| Chris Binnie
+| How to
+|-
+| 25
+| Latex  – 52 – CTAN End of the Alphabet Packages
+| Robert Boardman
+| LaTeX
+|-
+| 28
+| Inkscape 171 – Extensions 4
+| Mark Crutch
+| Inkscape
+|-
+| 34
+| Bodhi Corner – Back next month
+| Joseph Wiley
+| Distros
+|-
+| 35
+| UBports – Back next month
+| UBports Team
+| Ubuntu Devices
+|-
+| 37
+| My Opinion – Ubuntu 26.04 Cinnamon Disappointment
+| Gerald Conus
+| Opinion
+|-
+| 38
+| Write for Full Circle Magazine
+| Ronnie Tucker
+| Submissions
+|-
+| 39
+| Review – Ubuntu Budgie 26.04 LTS
+| Adam Hunt
+| Distros
+|-
+| 43
+| Review – Ubuntu Cinnamon 26.04 LTS
+| Adam Hunt
+| Distros
+|-
+| 48
+| Letters -  Back next month
+| Readers
+| Letters
+|-
+| 49
+| Q & A
+| ErikTheUnready
+| Q & A
+|-
+| 52
+| Games – False Alarm
+| ErikTheUnready
+| Games
+|-
+| 55
+| Patrons
+| Ronnie Tucker
+| Patrons
+|-
+| 56
+| How to Contribute
+| Ronnie Tucker
+| Submissions
+|}
+----
+{| class="wikitable"
+|-
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-230/ | Issue-230 ]]</nowiki>'''
+| ''June 2026''
+|-
+| '''Page'''
+| '''Article'''
+| '''Author'''
+| '''Keyword'''
+|-
+| 3
+| Editorial
+| Ronnie Tucker
+| Editorial
+|-
+| 4
+| News
+| ErikTheUnready
+| News
+|-
+| 24
+| Command & Conquer – nmcli
+| ErikTheUnready
+| Terminal
+|-
+| 27
+| Build Your Own Wiki – Part 1
+| Bruce Goodman
+| How to
+|-
+| 31
+| Godot Intro Part 8 – Finale
+| ErikTheUnready
+| How to
+|-
+| 39
+| Latex  – 51 – CTAN U Packages
+| Robert Boardman
+| LaTeX
+|-
+| 36
+| Inkscape 170 – Extensions 3
+| Mark Crutch
+| Inkscape
+|-
+| 43
+| Bodhi Corner – Back next month
+| Joseph Wiley
+| Distros
+|-
+| 44
+| UBports – Back next month
+| UBports Team
+| Ubuntu Devices
+|-
+| 46
+| My Story – Garmin Oregon GPS and Ubports Touch
+| Volker Klemm
+| My Story
+|-
+| 47
+| Write for Full Circle Magazine
+| Ronnie Tucker
+| Submissions
+|-
+| 48
+| Review – Lubuntu 26.04 LTS
+| Adam Hunt
+| Distros
+|-
+| 52
+| Review – Xubuntu 26.04 LTS
+| Adam Hunt
+| Distros
+|-
+| 57
+| Letters -  Back next month
+| Readers
+| Letters
+|-
+| 58
+| Q & A
+| ErikTheUnready
+| Q & A
+|-
+| 61
+| Games – Dotage
+| ErikTheUnready
+| Games
+|-
+| 64
+| Patrons
+| Ronnie Tucker
+| Patrons
+|-
+| 65
+| How to Contribute
+| Ronnie Tucker
+| Submissions
+|}
+----
+{| class="wikitable"
+|-
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-229/ | Issue-229 ]]</nowiki>'''
+| ''May 2026''
+|-
+| '''Page'''
+| '''Article'''
+| '''Author'''
+| '''Keyword'''
+|-
+| 3
+| Editorial
+| Ronnie Tucker
+| Editorial
+|-
+| 4
+| News
+| ErikTheUnready
+| News
+|-
+| 18
+| Command & Conquer – Laptop Game Server 2
+| ErikTheUnready
+| Terminal
+|-
+| 20
+| Tuxmate
+| ErikTheUnready
+| How to
+|-
+| 22
+| Godot Intro Part 7
+| ErikTheUnready
+| How to
+|-
+| 24
+| Latex  – 50 – CTAN T Packages
+| Robert Boardman
+| LaTeX
+|-
+| 27
+| Inkscape 169 – Extensions 2
+| Mark Crutch
+| Inkscape
+|-
+| 32
+| Bodhi Corner – Lightweight
+| Joseph Wiley
+| Distros
+|-
+| 35
+| UBports – Back next month
+| UBports Team
+| Ubuntu Devices
+|-
+| 37
+| My Story
+| Bruce Goodman
+| My Story
+|-
+| 39
+| Write for Full Circle Magazine
+| Ronnie Tucker
+| Submissions
+|-
+| 40
+| Review – Ubuntu 26.04 LTS
+| Adam Hunt
+| Distros
+|-
+| 46
+| Review – Kubuntu 26.04 LTS
+| Adam Hunt
+| Distros
+|-
+| 51
+| Letters -  Back next month
+| Readers
+| Letters
+|-
+| 52
+| Q & A
+| ErikTheUnready
+| Q & A
+|-
+| 55
+| Games – Primal Planet
+| ErikTheUnready
+| Games
+|-
+| 58
+| Patrons
+| Ronnie Tucker
+| Patrons
+|}
+||59||How to Contribute||Ronnie Tucker||Submissions||----
+{| class="wikitable"
+|-
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-228/ | Issue-228 ]]</nowiki>'''
+| ''April 2026''
+|-
+| '''Page'''
+| '''Article'''
+| '''Author'''
+| '''Keyword'''
+|-
+| 3
+| Editorial
+| Ronnie Tucker
+| Editorial
+|-
+| 4
+| News
+| ErikTheUnready
+| News
+|-
+| 15
+| Command & Conquer – Ports / Laptop Game Server 1
+| ErikTheUnready
+| Terminal
+|-
+| 17
+| Compact VirtualBox Disks
+| Bruce Goodman
+| Virtual Machines
+|-
+| 18
+| Godot Intro Part 6
+| ErikTheUnready
+| How to
+|-
+| 21
+| Latex  – 49 – CTAN S Packages
+| Robert Boardman
+| LaTeX
+|-
+| 24
+| Inkscape 168 – Extensions 1
+| Mark Crutch
+| Inkscape
+|-
+| 30
+| Bodhi Corner – Moksha Warp
+| Joseph Wiley
+| Distros
+|-
+| 32
+| UBports – Installfest Czech Republic
+| UBports Team
+| Ubuntu Devices
+|-
+| 34
+| My Opinion – Open Source Christmas 2
+| ErikTheUnready
+| Opinion
+|-
+| 36
+| Write for Full Circle Magazine
+| Ronnie Tucker
+| Submissions
+|-
+| 37
+| Review – Emmabuntüs Debian Edition 6 1.01
+| Adam Hunt
+| Distros
+|-
+| 42
+| Review – Arduin OS
+| Art Schreckengost
+| Distros
+|-
+| 45
+| Letters -  Back next month
+| Readers
+| Letters
+|-
+| 46
+| Q & A
+| ErikTheUnready
+| Q & A
+|-
+| 49
+| Games – Horticular
+| ErikTheUnready
+| Games
+|-
+| 52
+| Patrons
+| Ronnie Tucker
+| Patrons
+|-
+| 53
+| How to Contribute
+| Ronnie Tucker
+| Submissions
+|}
+----
+{| class="wikitable"
+|-
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-227/ | Issue-227 ]]</nowiki>'''
+| ''March 2026''
+|-
+| '''Page'''
+| '''Article'''
+| '''Author'''
+| '''Keyword'''
+|-
+| 3
+| Editorial
+| Ronnie Tucker
+| Editorial
+|-
+| 4
+| News
+| Moss Bliss
+| News
+|-
+| 28
+| Command & Conquer – Installed Software in Ubuntu
+| ErikTheUnready
+| Terminal
+|-
+| 30
+| Resize VirtualBox Disks
+| ErikTheUnready
+| Virtual Machines
+|-
+| 32
+| Godot Intro Part 5
+| ErikTheUnready
+| How to
+|-
+| 35
+| Latex  – 48 – CTAN Q & R Packages
+| Robert Boardman
+| LaTeX
+|-
+| 37
+| Inkscape 167 – Spray Tool
+| Mark Crutch
+| Inkscape
+|-
+| 43
+| Bodhi Corner – Bodhi Wallpaper
+| Moss Bliss
+| Distros
+|-
+| 45
+| UBports – Back next month
+| UBports Team
+| Ubuntu Devices
+|-
+| 47
+| My Opinion – Open Source Christmas 1
+| ErikTheUnready
+| Opinion
+|-
+| 49
+| Write for Full Circle Magazine
+| Ronnie Tucker
+| Submissions
+|-
+| 50
+| Review – Ubuntu Budgie 25.10
+| Adam Hunt
+| Distros
+|-
+| 55
+| Review – MX Linux
+| Art Schreckengost
+| Distros
+|-
+| 59
+| Letters
+| Readers
+| Letters
+|-
+| 60
+| Q & A
+| ErikTheUnready
+| Q & A
+|-
+| 63
+| Games – The Wandering Village
+| ErikTheUnready
+| Games
+|-
+| 66
+| Patrons
+| Ronnie Tucker
+| Patrons
+|-
+| 67
+| How to Contribute
+| Ronnie Tucker
+| Submissions
+|}
+----
+{| class="wikitable"
+|-
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-226/ | Issue-226 ]]</nowiki>'''
+| ''February 2026''
+|-
+| '''Page'''
+| '''Article'''
+| '''Author'''
+| '''Keyword'''
+|-
+| 3
+| Editorial
+| Ronnie Tucker
+| Editorial
+|-
+| 4
+| News
+| ErikTheUnready
+| News
+|-
+| 15
+| Command & Conquer – dpkg
+| ErikTheUnready
+| Terminal
+|-
+| 17
+| HiFile File Manager
+| ErikTheUnready
+| Miscellaneous
+|-
+| 19
+| Godot Intro Part 4
+| ErikTheUnready
+| How to
+|-
+| 21
+| Latex  – 47 – Editing a Class File
+| Robert Boardman
+| LaTeX
+|-
+| 24
+| Inkscape 166 – Multipage Support
+| Mark Crutch
+| Inkscape
+|-
+| 31
+| Bodhi Corner – Bodhi Wallpaper
+| Moss Bliss
+| Distros
+|-
+| 34
+| UBports – Back next month
+| UBports Team
+| Ubuntu Devices
+|-
+| 36
+| My Opinion –
+| ---
+| Opinion
+|-
+| 37
+| Write for Full Circle Magazine
+| Ronnie Tucker
+| Submissions
+|-
+| 38
+| Review – Ubuntu Cinnamon 25.10
+| Adam Hunt
+| Distros
+|-
+| 43
+| Review – Ubuntu MATE Stable
+| Adam Hunt
+| Distros
+|-
+| 47
+| Review – Ubuntu Linux Bible 2026
+| ErikTheUnready
+| Books
+|-
+| 49
+| Letters – Back next month
+| Readers
+| Letters
+|-
+| 50
+| Q & A
+| ErikTheUnready
+| Q & A
+|-
+| 53
+| Games – Drive Rally
+| ErikTheUnready
+| Games
+|-
+| 56
+| Patrons
+| Ronnie Tucker
+| Patrons
+|}
+----
+{| class="wikitable"
+|-
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-225/ | Issue-225 ]]</nowiki>'''
+| ''January 2026''
+|-
+| '''Page'''
+| '''Article'''
+| '''Author'''
+| '''Keyword'''
+|-
+| 3
+| Editorial
+| Ronnie Tucker
+| Editorial
+|-
+| 4
+| News
+| ErikTheUnready
+| News
+|-
+| 17
+| Command & Conquer – Symlinks
+| ErikTheUnready
+| Terminal
+|-
+| 19
+| LibreOffice Drop Caps
+| ErikTheUnready
+| LibreOffice
+|-
+| 20
+| Godot Intro Part 3
+| ErikTheUnready
+| How to
+|-
+| 23
+| Latex  – 46 – CTAN P Packages
+| Robert Boardman
+| LaTeX
+|-
+| 26
+| Inkscape 165 – Exploring User Directories 2
+| Mark Crutch
+| Inkscape
+|-
+| 33
+| Bodhi Corner – Bodhi Themes on the CLI
+| Moss Bliss
+| Distros
+|-
+| 35
+| UBports – Back next month
+| UBports Team
+| Ubuntu Devices
+|-
+| 38
+| My Opinion – Some Shower Thoughts…
+| ErikTheUnready
+| Opinion
+|-
+| 40
+| Write for Full Circle Magazine
+| Ronnie Tucker
+| Submissions
+|-
+| 41
+| Review – Edubuntu 25.10
+| Adam Hunt
+| Distros
+|-
+| 46
+| Review – Pop!_OS 24.04 LTS Stable
+| Adam Hunt
+| Distros
+|-
+| 52
+| Letters – Back next month
+| Readers
+| Letters
+|-
+| 53
+| Q & A
+| ErikTheUnready
+| Q & A
+|-
+| 56
+| Games – Endless Sky
+| ErikTheUnready
+| Games
+|-
+| 59
+| Patrons
+| Ronnie Tucker
+| Patrons
+|-
+| 60
+| How to Contribute
+| Ronnie Tucker
+| Submissions
+|}
+----
+{| class="wikitable"
+|-
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-224/ | Issue-224 ]]</nowiki>'''
 | ''December 2025''
 |-
 | '''Page'''
@@ -59,7 +862,7 @@ Some issues are also available in other languages than English.
 | LaTeX
 |-
 | 27
-| Inkscape 164 – Exploring User Directories
+| Inkscape 164 – Exploring User Directories 1
 | Mark Crutch
 | Inkscape
 |-
@@ -121,7 +924,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-223- | Issue-223 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-223/ | Issue-223 ]]</nowiki>'''
 | ''November 2025''
 |-
 | '''Page'''
@@ -222,7 +1025,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-222- | Issue-222 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-222/ | Issue-222 ]]</nowiki>'''
 | ''October 2025''
 |-
 | '''Page'''
@@ -323,7 +1126,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-221- | Issue-221 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-221/ | Issue-221 ]]</nowiki>'''
 | ''September 2025''
 |-
 | '''Page'''
@@ -424,7 +1227,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-220- | Issue-220 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-220/ | Issue-220 ]]</nowiki>'''
 | ''August 2025''
 |-
 | '''Page'''
@@ -530,7 +1333,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-219- | Issue-219 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-219/ | Issue-219 ]]</nowiki>'''
 | ''July 2025''
 |-
 | '''Page'''
@@ -631,7 +1434,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-218- | Issue-218 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-218/ | Issue-218 ]]</nowiki>'''
 | ''June 2025''
 |-
 | '''Page'''
@@ -732,7 +1535,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-217- | Issue-217 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-217/ | Issue-217 ]]</nowiki>'''
 | ''May 2025''
 |-
 | '''Page'''
@@ -833,7 +1636,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-216- | Issue-216 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-216/ | Issue-216 ]]</nowiki>'''
 | ''April 2025''
 |-
 | '''Page'''
@@ -939,7 +1742,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-215- | Issue-215 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-215/ | Issue-215 ]]</nowiki>'''
 | ''March 2025''
 |-
 | '''Page'''
@@ -1040,7 +1843,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-214- | Issue-214 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-214/ | Issue-214 ]]</nowiki>'''
 | ''February 2025''
 |-
 | '''Page'''
@@ -1136,7 +1939,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-213- | Issue-213 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-213/ | Issue-213 ]]</nowiki>'''
 | ''January 2025''
 |-
 | '''Page'''
@@ -1232,7 +2035,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-212- | Issue-212 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-212/ | Issue-212 ]]</nowiki>'''
 | ''December 2024''
 |-
 | '''Page'''
@@ -1328,7 +2131,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-211- | Issue-211 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-211/ | Issue-211 ]]</nowiki>'''
 | ''November 2024''
 |-
 | '''Page'''
@@ -1424,7 +2227,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-210- | Issue-210 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-210/ | Issue-210 ]]</nowiki>'''
 | ''October 2024''
 |-
 | '''Page'''
@@ -1525,7 +2328,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-209- | Issue-209 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-209/ | Issue-209 ]]</nowiki>'''
 | ''September 2024''
 |-
 | '''Page'''
@@ -1631,7 +2434,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-208- | Issue-208 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-208/ | Issue-208 ]]</nowiki>'''
 | ''August 2024''
 |-
 | '''Page'''
@@ -1737,7 +2540,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-207- | Issue-207 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-207/ | Issue-207 ]]</nowiki>'''
 | ''July 2024''
 |-
 | '''Page'''
@@ -1843,7 +2646,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-206- | Issue-206 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-206/ | Issue-206 ]]</nowiki>'''
 | ''June 2024''
 |-
 | '''Page'''
@@ -1949,7 +2752,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-205- | Issue-205 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-205/ | Issue-205 ]]</nowiki>'''
 | ''May 2024''
 |-
 | '''Page'''
@@ -2060,7 +2863,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-204- | Issue-204 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-204/ | Issue-204 ]]</nowiki>'''
 | ''April 2024''
 |-
 | '''Page'''
@@ -2161,7 +2964,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-203- | Issue-203 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-203/ | Issue-203 ]]</nowiki>'''
 | ''March 2024''
 |-
 | '''Page'''
@@ -2262,7 +3065,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-202- | Issue-202 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-202/ | Issue-202 ]]</nowiki>'''
 | ''February 2024''
 |-
 | '''Page'''
@@ -2363,7 +3166,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-201- | Issue-201 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-201/ | Issue-201 ]]</nowiki>'''
 | ''January 2024''
 |-
 | '''Page'''
@@ -2469,7 +3272,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-200- | Issue-200 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-200/ | Issue-200 ]]</nowiki>'''
 | ''December 2023''
 |-
 | '''Page'''
@@ -2580,7 +3383,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-199- | Issue-199 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-199/ | Issue-199 ]]</nowiki>'''
 | ''November 2023''
 |-
 | '''Page'''
@@ -2691,7 +3494,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ https:--fullcirclemagazine.org-issue-198- | Issue-198 ]]</nowiki>'''
+| '''<nowiki>[[ https://fullcirclemagazine.org/issue-198/ | Issue-198 ]]</nowiki>'''
 | ''October 2023''
 |-
 | '''Page'''
@@ -2802,7 +3605,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-197- | Issue-197 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-197/ | Issue-197 ]]</nowiki>'''
 | ''September 2023''
 |-
 | '''Page'''
@@ -2913,7 +3716,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-196- | Issue-196 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-196/ | Issue-196 ]]</nowiki>'''
 | ''August 2023''
 |-
 | '''Page'''
@@ -3029,7 +3832,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-195- | Issue-195 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-195/ | Issue-195 ]]</nowiki>'''
 | ''July 2023''
 |-
 | '''Page'''
@@ -3145,7 +3948,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-194- | Issue-194 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-194/ | Issue-194 ]]</nowiki>'''
 | ''June 2023''
 |-
 | '''Page'''
@@ -3261,7 +4064,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-193- | Issue-193 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-193/ | Issue-193 ]]</nowiki>'''
 | ''May 2023''
 |-
 | '''Page'''
@@ -3382,7 +4185,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-192- | Issue-192 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-192/ | Issue-192 ]]</nowiki>'''
 | ''April 2023''
 |-
 | '''Page'''
@@ -3498,7 +4301,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-191- | Issue-191 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-191/ | Issue-191 ]]</nowiki>'''
 | ''March 2023''
 |-
 | '''Page'''
@@ -3609,7 +4412,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-190- | Issue-190 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-190/ | Issue-190 ]]</nowiki>'''
 | ''February 2023''
 |-
 | '''Page'''
@@ -3720,7 +4523,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-189- | Issue-189 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-189/ | Issue-189 ]]</nowiki>'''
 | ''January 2023''
 |-
 | '''Page'''
@@ -3836,7 +4639,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-188- | Issue-188 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-188/ | Issue-188 ]]</nowiki>'''
 | ''December 2022''
 |-
 | '''Page'''
@@ -3947,7 +4750,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-187- | Issue-187 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-187/ | Issue-187 ]]</nowiki>'''
 | ''November 2022''
 |-
 | '''Page'''
@@ -4058,7 +4861,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-186- | Issue-186 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-186/ | Issue-186 ]]</nowiki>'''
 | ''October 2022''
 |-
 | '''Page'''
@@ -4169,7 +4972,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-185- | Issue-185 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-185/ | Issue-185 ]]</nowiki>'''
 | ''September 2022''
 |-
 | '''Page'''
@@ -4275,7 +5078,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-184- | Issue-184 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-184/ | Issue-184 ]]</nowiki>'''
 | ''August 2022''
 |-
 | '''Page'''
@@ -4381,7 +5184,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-183- | Issue-183 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-183/ | Issue-183 ]]</nowiki>'''
 | ''July 2022''
 |-
 | '''Page'''
@@ -4492,7 +5295,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-182- | Issue-182 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-182/ | Issue-182 ]]</nowiki>'''
 | ''June 2022''
 |-
 | '''Page'''
@@ -4603,7 +5406,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-181- | Issue-181 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-181/ | Issue-181 ]]</nowiki>'''
 | ''May 2022''
 |-
 | '''Page'''
@@ -4709,7 +5512,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-180- | Issue-180 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-180/ | Issue-180 ]]</nowiki>'''
 | ''April 2022''
 |-
 | '''Page'''
@@ -4815,7 +5618,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-179- | Issue-179 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-179/ | Issue-179 ]]</nowiki>'''
 | ''March 2022''
 |-
 | '''Page'''
@@ -4921,7 +5724,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-178- | Issue-178 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-178/ | Issue-178 ]]</nowiki>'''
 | ''February 2022''
 |-
 | '''Page'''
@@ -5027,7 +5830,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-177- | Issue-177 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-177/ | Issue-177 ]]</nowiki>'''
 | ''January 2022''
 |-
 | '''Page'''
@@ -5133,7 +5936,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-176- | Issue-176 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-176/ | Issue-176 ]]</nowiki>'''
 | ''December 2021''
 |-
 | '''Page'''
@@ -5244,7 +6047,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-175- | Issue-175 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-175/ | Issue-175 ]]</nowiki>'''
 | ''November 2021''
 |-
 | '''Page'''
@@ -5350,7 +6153,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-174- | Issue-174 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-174/ | Issue-174 ]]</nowiki>'''
 | ''October 2021''
 |-
 | '''Page'''
@@ -5456,7 +6259,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-173- | Issue-173 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-173/ | Issue-173 ]]</nowiki>'''
 | ''September 2021''
 |-
 | '''Page'''
@@ -5562,7 +6365,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-172- | Issue-172 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-172/ | Issue-172 ]]</nowiki>'''
 | ''August 2021''
 |-
 | '''Page'''
@@ -5663,7 +6466,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-171- | Issue-171 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-171/ | Issue-171 ]]</nowiki>'''
 | ''July 2021''
 |-
 | '''Page'''
@@ -5769,7 +6572,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-170- | Issue-170 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-170/ | Issue-170 ]]</nowiki>'''
 | ''June 2021''
 |-
 | '''Page'''
@@ -5875,7 +6678,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-169- | Issue-169 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-169/ | Issue-169 ]]</nowiki>'''
 | ''May 2021''
 |-
 | '''Page'''
@@ -5981,7 +6784,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-168- | Issue-168 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-168/ | Issue-168 ]]</nowiki>'''
 | ''April 2021''
 |-
 | '''Page'''
@@ -6092,7 +6895,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-167- | Issue-167 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-167/ | Issue-167 ]]</nowiki>'''
 | ''March 2021''
 |-
 | '''Page'''
@@ -6203,7 +7006,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-166- | Issue-166 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-166/ | Issue-166 ]]</nowiki>'''
 | ''February 2021''
 |-
 | '''Page'''
@@ -6309,7 +7112,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-165- | Issue-165 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-165/ | Issue-165 ]]</nowiki>'''
 | ''January 2021''
 |-
 | '''Page'''
@@ -6415,7 +7218,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-164- | Issue-164 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-164/ | Issue-164 ]]</nowiki>'''
 | ''December 2020''
 |-
 | '''Page'''
@@ -6531,7 +7334,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-163- | Issue-163 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-163/ | Issue-163 ]]</nowiki>'''
 | ''November 2020''
 |-
 | '''Page'''
@@ -6637,7 +7440,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-162- | Issue-162 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-162/ | Issue-162 ]]</nowiki>'''
 | ''October 2020''
 |-
 | '''Page'''
@@ -6748,7 +7551,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-161- | Issue-161 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-161/ | Issue-161 ]]</nowiki>'''
 | ''September 2020''
 |-
 | '''Page'''
@@ -6854,7 +7657,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-160- | Issue-160 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-160/ | Issue-160 ]]</nowiki>'''
 | ''August 2020''
 |-
 | '''Page'''
@@ -6960,7 +7763,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-159- | Issue-159 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-159/ | Issue-159 ]]</nowiki>'''
 | ''July 2020''
 |-
 | '''Page'''
@@ -7066,7 +7869,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-158- | Issue-158 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-158/ | Issue-158 ]]</nowiki>'''
 | ''June 2020''
 |-
 | '''Page'''
@@ -7177,7 +7980,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-157- | Issue-157 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-157/ | Issue-157 ]]</nowiki>'''
 | ''May 2020''
 |-
 | '''Page'''
@@ -7293,7 +8096,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-156- | Issue-156 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-156/ | Issue-156 ]]</nowiki>'''
 | ''April 2020''
 |-
 | '''Page'''
@@ -7399,7 +8202,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-155- | Issue-155 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-155/ | Issue-155 ]]</nowiki>'''
 | ''March 2020''
 |-
 | '''Page'''
@@ -7505,7 +8308,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-154- | Issue-154 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-154/ | Issue-154 ]]</nowiki>'''
 | ''February 2020''
 |-
 | '''Page'''
@@ -7626,7 +8429,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-153- | Issue-153 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-153/ | Issue-153 ]]</nowiki>'''
 | ''January 2020''
 |-
 | '''Page'''
@@ -7747,7 +8550,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-152- | Issue-152 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-152/ | Issue-152 ]]</nowiki>'''
 | ''December 2019''
 |-
 | '''Page'''
@@ -7868,7 +8671,7 @@ Some issues are also available in other languages than English.
 ----
 {| class="wikitable"
 |-
-| '''<nowiki>[[ http:--fullcirclemagazine.org-issue-151- | Issue-151 ]]</nowiki>'''
+| '''<nowiki>[[ http://fullcirclemagazine.org/issue-151/ | Issue-151 ]]</nowiki>'''
 | ''November 2019''
 |-
 | '''Page'''

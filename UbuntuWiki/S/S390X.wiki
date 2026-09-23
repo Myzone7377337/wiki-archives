@@ -14,7 +14,6 @@ __TOC__
 |}
 
 == Ubuntu Server for IBM zSystems and LinuxONE ==
-
 * Ubuntu Server for IBM zSystems and LinuxONE is the Ubuntu Server version compiled for the s390x architecture (64bit Mainframe).
 * Ubuntu Server for IBM zSystems and LinuxONE (s390x) is available since 16.04 LTS (Xenial Xerus) release and newer, but meanwhile Ubuntu 16.04 reached it's end of base support.
 * The target architecture is zEC12 (zBC12) and up (alternate -march/-mtune switch: "arch10") starting with 16.04.
@@ -24,7 +23,6 @@ __TOC__
 <nowiki>[[File:LinuxOne.png||width=40%]]</nowiki>
 
 === ISO images ===
-
 * Access to the ISO and image download is provided via the following form <nowiki>[[http://www.ubuntu.com/download/server/linuxone]]</nowiki> or <nowiki>[[https://www.ubuntu.com/download/server/s390x]]</nowiki>.
    The default download link that will be provided always points to the latest Ubuntu Server release.
 * But via the alternate options link that is provided as well, you can navigate to any other Ubuntu Server LTS release and image that is still in service.
@@ -32,8 +30,8 @@ __TOC__
 * The ISO images contain multiple files in /boot/ sub-directory to boot/IPL on LPAR, z/VM, and KVM.
 
 === Cloud images ===
-
 In addition to the ISO images, pre-installed Cloud images are available:
+* <nowiki>[[https://cloud-images.ubuntu.com/releases/26.04/release/|26.04]]</nowiki>
 * <nowiki>[[https://cloud-images.ubuntu.com/releases/24.04/release/|24.04]]</nowiki>
 * <nowiki>[[https://cloud-images.ubuntu.com/releases/22.04/release/|22.04]]</nowiki>
 * <nowiki>[[https://cloud-images.ubuntu.com/releases/20.04/release/|20.04]]</nowiki>
@@ -43,14 +41,12 @@ In addition to the ISO images, pre-installed Cloud images are available:
 These are intended for direct use in KVM, OpenStack and other Cloud-like environments.
 
 === Container images ===
-
 Finally there are also a lot of container images (not only for Ubuntu releases) available for direct use in container infrastructures, like lxc and LXD.
 
 The <nowiki>[[https://us.images.linuxcontainers.org/|Linux container - image server]]</nowiki> provides a full list.
 There are of course also ways for <nowiki>[[https://tutorials.ubuntu.com/tutorial/create-custom-lxd-images|Creating custom LXD images]]</nowiki>
 
 === Updated installer ===
-
 In some rare cases it might be required to use or test an updated installer.
 Since the installer is usually only shipped as part of an installation (ISO) image (incl. the 'point' releases), the time until the next installer becomes available needs to be bridged.
 An updated installer can be taken from here:
@@ -90,19 +86,26 @@ Note: Outdated Ubuntu versions that are no longer actively maintained are moved 
 ** <nowiki>[[https://wiki.ubuntu.com/S390X/Installation%20In%20zKVM|Step-by-step Ubuntu Linux on KVM for IBM z Systems installation example]]</nowiki>
 ** <nowiki>[[https://wiki.ubuntu.com/S390X/InstallationGuide/AutomatedInstallsWithPreseed|Automating installation with preseed]]</nowiki>
 
+Please notice that the last Ubuntu Server release for IBM Z and LinuxONE that supports d-i was 20.04.
+And the first Ubuntu Server release for IBM Z and LinuxONE that supported subiquity was 20.04 as well.
+So there are 20.04 images available with d-i (legacy) and subiquity (live-server).
+
 ==== Subiquity ====
 
 ** <nowiki>[[https://discourse.ubuntu.com/t/interactive-live-server-installation-on-ibm-z-lpar-s390x/16601|Interactive live server installation on IBM Z LPAR (s390x)]]</nowiki>
 
 ** <nowiki>[[https://discourse.ubuntu.com/t/interactive-live-server-installation-on-ibm-z-vm-s390x/16604|Interactive live server installation on IBM z/VM (s390x)]]</nowiki>
 
-** <nowiki>[[Autoinstall Quick Start (s390x)|https:--wiki.ubuntu.com-FoundationsTeam-AutomatedServerInstalls-QuickStart-s390x]]</nowiki>
+** <nowiki>[[Autoinstall Quick Start (s390x)|https://wiki.ubuntu.com/FoundationsTeam/AutomatedServerInstalls/QuickStart/s390x]]</nowiki>
 
 ** <nowiki>[[https://discourse.ubuntu.com/t/non-interactive-ibm-z-lpar-s390x-installation-using-autoinstall/16988|Non-interactive IBM Z LPAR (s390x) installation using autoinstall]]</nowiki>
 
 ** <nowiki>[[https://discourse.ubuntu.com/t/non-interactive-ibm-z-vm-s390x-installation-using-autoinstall/16995|Non-interactive IBM z/VM (s390x) installation using autoinstall]]</nowiki>
 
 === Documentation ===
+<nowiki>[[https://canonical-subiquity.readthedocs-hosted.com/en/latest/|Latest Ubuntu Server Guide]]</nowiki>
+
+Older landing pages / docs:
 
 <nowiki>[[https://help.ubuntu.com/|Official documentation landing page]]</nowiki>
 
@@ -117,6 +120,7 @@ Note: Outdated Ubuntu versions that are no longer actively maintained are moved 
 * <nowiki>[[https://wiki.ubuntu.com/S390X/InstallationGuide|16.04]]</nowiki>
 
 === Release Notes ===
+* <nowiki>[[https://documentation.ubuntu.com/release-notes/26.04/|26.04]]</nowiki>
 * <nowiki>[[https://discourse.ubuntu.com/t/noble-numbat-release-notes/|24.04]]</nowiki>
 * <nowiki>[[https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/|22.04]]</nowiki>
 * <nowiki>[[https://wiki.ubuntu.com/FocalFossa/ReleaseNotes|20.04]]</nowiki>
@@ -124,32 +128,29 @@ Note: Outdated Ubuntu versions that are no longer actively maintained are moved 
 * <nowiki>[[https://wiki.ubuntu.com/XenialXerus/ReleaseNotes|16.04]]</nowiki>
 
 === Bugs ===
-
 * Use `ubuntu-bug` tool
 * Include/add `s390x` tag to manual bug reports
 * If a problem seems to be s390x-specific, also provide the output of 'dbginfo.sh'.
 
 === Community ===
-
-* <nowiki>[[irc:--irc.freenode.net-ubuntu-s390x|#ubuntu-s390x]]</nowiki> on freenode
+* <nowiki>[[irc://irc.freenode.net/ubuntu-s390x|#ubuntu-s390x]]</nowiki> on freenode
 * <nowiki>[[http://launchpad.net/~ubuntu-s390x|~ubuntu-s390x]]</nowiki> launchpad porting team
 * <nowiki>[[mailto:ubuntu-s390x@lists.launchpad.net|ubuntu-s390x@lists.launchpad.net]]</nowiki> team mailing list hosted on launchpad
 
 === Ubuntu Server s390x blog ===
-
 Stop by at the <nowiki>[[https://ubuntu-on-big-iron.blogspot.com/?view=sidebar|Ubuntu on Big Iron]]</nowiki> blog for further (hopefully) useful information.
 
 === Status ===
-
 * Almost all packages and major (server-) products are available for s390x:
 * Juju local and manual providers are available
 * LXD is available, incl. KVM support
 * multipass is available
 * Cloud images are available (KVM)
 * Container images are available
+* Rocks images are available (and additional can be requested)
 * Docker is available
 * OpenStack - see more details visit the <nowiki>[[https://wiki.ubuntu.com/OpenStack/CloudArchive|Cloud Archive]]</nowiki> page
-* Kubernetes is available (CK and Microk8s)
+* Kubernetes is available (Charmed k8s and Microk8s - C-k8s only works atm if cilium is replaced by calico)
 * MAAS is available (requires HMC in DPM mode, and NVMe or SCSI/FCP disk storage)
 
 === FAQ ===
@@ -178,10 +179,10 @@ There is also an open-source and freely available emulator called <nowiki>[[http
 
 To ignore devices you can run `cio_ignore` tool to generate appropriate stanza to ignore all devices, but the currently active/in-use. Simply add the generated stanza to the boot parameters in `/etc/zipl.conf`:
 
-<pre>
+{{{#!bash
 $ sudo cio_ignore -u -k
 cio_ignore=all,!c000-c002,!e000,!e100
-</pre>
+}}}
 
 ==== Q: What is the recommended way for installations with many package groups selected? ====
 '''A:''' Appropriately sized machines need to be used for the installation target.
@@ -298,3 +299,171 @@ $ kvm-ok
 INFO: /dev/kvm exists
 KVM acceleration can be used
 </pre>
+
+==== Q: Howto install Ubuntu on s390x without needing to run through the early installation and network configuration steps in the console (aka ''casper'')? ====
+'''A:''' Yes, that is possible - it requires that the basic network configuration data is specified in the "parmfile", that holds the kernel parameters for the installer kernel/initrd that is booted.
+
+It's usually on your installation server's boot folder, for example: /srv/ftp/ubuntu-live-server-26.04/boot
+Per default the parmfile is named "parmfile.ubuntu" and it's pretty much empty:
+<pre>
+$ cat parmfile.ubuntu
+ --- 
+</pre>
+The parmfile is referened as "parmfile.ubuntu" in the "ubuntu.ins" file, which is used for LPAR installations:
+<pre>
+$ cat ubuntu.ins
+* Ubuntu for IBM Z (default kernel)
+kernel.ubuntu 0x00000000
+initrd.off 0x0001040c
+initrd.siz 0x00010414
+parmfile.ubuntu 0x00010480
+initrd.ubuntu 0x01000000
+</pre>
+And for z/VM installations the parmfile is referenced as "PARMFILE  UBUNTU   *" in the "ubuntu.exec"  Rexx script:
+<pre>
+$ cat ubuntu.exec 
+/* REXX EXEC TO IPL Ubuntu for        */
+/* z Systems FROM THE VM READER.      */
+/*                                    */
+'CP CLOSE RDR'
+'PURGE RDR ALL'
+'SPOOL PUNCH * RDR'
+'PUNCH KERNEL    UBUNTU   * (NOHEADER'
+'PUNCH PARMFILE  UBUNTU   * (NOHEADER'
+'PUNCH INITRD    UBUNTU   * (NOHEADER'
+'CHANGE RDR ALL KEEP NOHOLD'
+'CP IPL 000C CLEAR'
+</pre>
+Either modify the "parmfile.ubuntu" file directly or create a copy and modify the copy.
+But then don't forget to also copy the "ubuntu.ins" and/or the "ubuntu.exec" and update the reference to the parm file inside these (the later is the recommended approach).
+
+For LPAR installations:
+<pre>
+cp ubuntu.ins mylpar.ins
+cp parmfile.ubuntu parmfile.mylpar
+vim mylpar.ins
+* Ubuntu for IBM Z (default kernel)
+kernel.ubuntu 0x00000000
+initrd.off 0x0001040c
+initrd.siz 0x00010414
+parmfile.mylpar 0x00010480
+initrd.ubuntu 0x01000000
+</pre>
+
+For z/VM guest installation (on z/VM CMS):
+<pre>
+copyfiles parmfile ubuntu o parmfile myguest o
+copyfiles ubuntu exec o to myguest exec o
+x myguest exec o
+/* REXX EXEC TO IPL Ubuntu for        */
+/* z Systems FROM THE VM READER.      */
+/*                                    */
+'CP CLOSE RDR'
+'PURGE RDR ALL'
+'SPOOL PUNCH * RDR'
+'PUNCH KERNEL    UBUNTU   * (NOHEADER'
+'PUNCH PARMFILE  MYGUEST  * (NOHEADER'
+'PUNCH INITRD    UBUNTU   * (NOHEADER'
+'CHANGE RDR ALL KEEP NOHOLD'
+'CP IPL 000C CLEAR'
+</pre>
+
+The content of the parmfile consists of the following two or three lines:
+<pre>
+ReadChannel=<read address> WriteChannel=<write address> DataChannel=<data address>
+ip=<z/VM guest IP>::<Gateway>:<NetMask>:<hostname>:<network interface>:none:<DNS / Nameserver>
+url=<fully qualified URL that points to an ISO image>
+</pre>
+An example could look like this:
+<pre>
+ReadChannel=0.0.0600 WriteChannel=0.0.0601 DataChannel=0.0.0602
+ip=10.11.12.22::10.11.12.1:255.255.255.0:mylparhostname:enc600:none:10.11.12.1
+url=ftp://installserver.local/ubuntu-live-server-26.04/ubuntu-26.04-live-server-s390x.iso
+</pre>
+An example with VLAN (here sample VLAN id: 1234:
+<pre>
+ReadChannel=0.0.0600 WriteChannel=0.0.0601 DataChannel=0.0.0602
+ip=10.11.12.22::10.11.12.1:255.255.255.0:mylparhostname:enc600.1234:none:10.11.12.1 vlan=enc600.1234:enc600
+url=ftp://installserver.local/ubuntu-live-server-26.04/ubuntu-26.04-live-server-s390x.iso
+</pre>
+<<BR>>
+''Note:''
+- On z/VM ensure that you properly handle the 80 character line limit!<<BR>>
+- ReadChannel, WriteChannel and DataChannel for the (OSA) network devices does not need to be specified on a DPM system.
+
+Now start the installation.
+An LPAR installation via the HMC task "Load from Removable Media", pointing to '''mylpar.ins'''
+and an z/VM installation by executing the script '''myguest''' ( exec o).
+The installation will run interactively until one is prompted to proceed with subiquity using "ssh installer@10.11.12.22" and a temporary installation password given.
+
+==== Q: How can I do an installation in a disconnected environment (aka island mode)? ====
+'''A:''' First of all this is not recommended, because that usually means that it will be difficult to keep your system up-to-date and with that keeping it into a supported state!
+<<BR>>
+Nevertheless, it is possible.
+<<BR>>
+The best option is to do this based on the above "needing to run through the early installation and network configuration steps", just change the name server to an IP address that is known to not work.
+For example (based on the above) change it from "10.11.12.1" to "192.0.2.1". ("192.0.2.1" seems to be a documentation IP, and with that is unlikely to exist.)
+<<BR>>
+Now start the installation.
+An LPAR installation via the HMC task "Load from Removable Media", pointing to "mylpar.ins"
+and an z/VM installation by executing the script myguest ( exec o).
+You may notice that the cloud-init step will take a little but longer than usual.
+But nevertheless, the installation will run non-interactively until one is prompted to proceed with subiquity using "ssh installer@10.11.12.22" and a temporary installation password given.
+<<BR>>
+Now start the subiquity part of the installation.
+<<BR>>
+At the "Network configuration" screen ensure that the field for the "Name servers:" is not empty (it's empty by default). Instead enter again: "192.0.2.1" (without double quotes) - then proceed.
+<<BR>>
+At the "Ubuntu archive mirror configuration" screen subiquity, will make several attempts to reach a mirror (which takes quite some time), but will eventually give up with the message "The mirror location does not seem to work". When this is shown do not select "Try again now", but just select "Done".
+Another message is displayed about "Mirror check failed", but subiquity allows to "Continue".
+<<BR>>
+At the remote access screen, tick the box to install the ssh-server, but do not try to install any SSH keys, because that will obviously not work either.
+<<BR>>
+Then complete the installation as usual and do the post-install reboot.
+<<BR>>
+The system will come up again and it's possible to login to the system using it's IP address, like:
+<pre>
+ssh ubuntu@10.11.12.22
+</pre>
+You may need to remove the old ssh key from the installation session first, like this:
+<pre>
+ssh-keygen -f '/home/me/.ssh/known_hosts' -R '10.11.12.22'
+</pre>
+But ssh will show a corresponding message.
+<<BR>>
+Now, logged in to the system, no activities are possible that require any name services, due to the special/fake nameserver entry (for example ''sudo apt update'' will fail).
+To fix this the correct nameserver can again be specified in:
+<pre>
+$ sudo vim /etc/netplan/50-cloud-init.yaml
+</pre>
+change it from:
+<pre>
+network:
+  version: 2
+  ethernets:
+    enc600:
+      addresses:
+      - "10.11.12.22/24"
+      nameservers:
+        addresses:
+        - 192.0.2.1
+      gateway4: 10.11.12.1
+      routes:
+      - to: "default"
+        via: "10.11.12.1"
+</pre>
+to:
+<pre>
+network:
+  version: 2
+  ethernets:
+    enc600:
+      addresses:
+      - "10.11.12.22/24"
+      nameservers:
+        addresses:
+        - 10.11.12.1
+      gateway4: 10.11.12.1
+</pre>
+And run "sudo netplan --dry-run apply" and if no errors are displayed (warning can be) run it without "--dry-run" "sudo netplan apply".
+Tasks that require a working name server (like ''sudo apt update'') should work now again.

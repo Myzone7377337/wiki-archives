@@ -65,12 +65,14 @@ __TOC__
 | '''24.10            '''
 | '''25.04            '''
 | '''25.10            '''
-| '''26.04            '''
+| '''26.04 LTS        '''
+| '''26.10            '''
 |-
 | <nowiki>[[#ports|       No Open Ports]]</nowiki>
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#00dd00> policy
 | <#00dd00> policy
 | <#00dd00> policy
 | <#00dd00> policy
@@ -158,6 +160,7 @@ __TOC__
 | <#00dd00> yescrypt
 | <#00dd00> yescrypt
 | <#00dd00> yescrypt
+| <#00dd00> yescrypt
 |-
 | <nowiki>[[#syn-cookies|         SYN cookies]]</nowiki>
 | <#98fd98> kernel
@@ -169,6 +172,7 @@ __TOC__
 | <#98fd98> kernel
 | <#98fd98> kernel
 | <#98fd98> kernel
+| <#00dd00> kernel & sysctl
 | <#00dd00> kernel & sysctl
 | <#00dd00> kernel & sysctl
 | <#00dd00> kernel & sysctl
@@ -250,6 +254,7 @@ __TOC__
 | <#00dd00> enabled
 | <#00dd00> enabled
 | <#00dd00> enabled
+| <#00dd00> enabled
 |-
 | <nowiki>[[#kernel-livepatches|  Kernel Livepatches]]</nowiki>
 | <#dddddd> --
@@ -295,6 +300,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#98fd98> 26.04 LTS Kernel
 | <#dddddd> --
 |-
 | <nowiki>[[#disable-legacy-tls|  Disable legacy TLS]]</nowiki>
@@ -329,6 +335,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#00dd00> policy
 | <#00dd00> policy
 | <#00dd00> policy
 | <#00dd00> policy
@@ -388,6 +395,7 @@ __TOC__
 | <#00dd00> kernel & userspace (default on server)
 | <#00dd00> kernel & userspace (default on server)
 | <#00dd00> kernel & userspace (default on server)
+| <#00dd00> kernel & userspace (default on server)
 |-
 | <nowiki>[[#firewall|Configurable Firewall]]</nowiki>
 | <#dddddd> --
@@ -397,6 +405,7 @@ __TOC__
 | <#00dd00> iptables
 | <#00dd00> iptables
 | <#00dd00> iptables
+| <#00dd00> ufw
 | <#00dd00> ufw
 | <#00dd00> ufw
 | <#00dd00> ufw
@@ -480,6 +489,7 @@ __TOC__
 | <#00dd00> pollinate
 | <#00dd00> pollinate
 | <#00dd00> pollinate
+| <#00dd00> pollinate
 |-
 | <nowiki>[[#seccomp|      PR_SET_SECCOMP]]</nowiki>
 | <#dddddd> --
@@ -489,6 +499,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#98fd98> kernel
 | <#98fd98> kernel
 | <#98fd98> kernel
 | <#98fd98> kernel
@@ -572,6 +583,7 @@ __TOC__
 | <#00dd00> 4.1.0
 | <#00dd00> 5.0.0
 | <#00dd00> 5.0.0
+| <#00dd00> 5.0.0
 |-
 | <nowiki>[[#apparmor-unprivileged-userns-restrictions|AppArmor unprivileged user namespace restrictions]]</nowiki>
 | <#dddddd> --
@@ -618,6 +630,7 @@ __TOC__
 | <#00dd00> kernel & userspace
 | <#00dd00> kernel & userspace
 | <#00dd00> kernel & userspace
+| <#00dd00> kernel & userspace
 |-
 | <nowiki>[[#selinux|             SELinux]]</nowiki>
 | <#dddddd> --
@@ -627,6 +640,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#98fd98> universe
 | <#98fd98> universe
 | <#98fd98> universe
 | <#98fd98> universe
@@ -710,6 +724,7 @@ __TOC__
 | <#98fd98> kernel
 | <#98fd98> kernel
 | <#98fd98> kernel
+| <#98fd98> kernel
 |-
 | <nowiki>[[#encrypted-lvm|       Encrypted LVM]]</nowiki>
 | <#dddddd> --
@@ -728,6 +743,7 @@ __TOC__
 | <#98fd98> alt installer
 | <#98fd98> alt installer
 | <#98fd98> alt installer
+| <#98fd98> main installer
 | <#98fd98> main installer
 | <#98fd98> main installer
 | <#98fd98> main installer
@@ -802,6 +818,7 @@ __TOC__
 | <#98fd98> ZFS dataset encryption available, encrypted Home (eCryptfs) and ext4 encryption (fscrypt) available in universe
 | <#98fd98> ZFS dataset encryption available, encrypted Home (eCryptfs) and ext4 encryption (fscrypt) available in universe
 | <#98fd98> ZFS dataset encryption available, encrypted Home (eCryptfs) and ext4 encryption (fscrypt) available in universe
+| <#98fd98> ZFS dataset encryption available, encrypted Home (eCryptfs) and ext4 encryption (fscrypt) available in universe
 |-
 | <nowiki>[[#TPM|Trusted Platform Module]]</nowiki>
 | <#dddddd> --
@@ -810,6 +827,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#98fd98> kernel & userspace (tpm-tools)
 | <#98fd98> kernel & userspace (tpm-tools)
 | <#98fd98> kernel & userspace (tpm-tools)
 | <#98fd98> kernel & userspace (tpm-tools)
@@ -894,11 +912,13 @@ __TOC__
 | <#00dd00> gcc patch
 | <#00dd00> gcc patch
 | <#00dd00> gcc patch
+| <#00dd00> gcc patch
 |-
 | <nowiki>[[#heap-protector|      Heap Protector]]</nowiki>
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#00dd00> glibc
 | <#00dd00> glibc
 | <#00dd00> glibc
 | <#00dd00> glibc
@@ -986,6 +1006,7 @@ __TOC__
 | <#00dd00> glibc
 | <#00dd00> glibc
 | <#00dd00> glibc
+| <#00dd00> glibc
 |-
 | <nowiki>[[#stack-aslr|          Stack ASLR]]</nowiki>
 | <#dddddd> --
@@ -1032,8 +1053,9 @@ __TOC__
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
+| <#00dd00> kernel
 |-
-| <nowiki>[[#mmap-aslr|      Libs-mmap ASLR]]</nowiki>
+| <nowiki>[[#mmap-aslr|      Libs/mmap ASLR]]</nowiki>
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
@@ -1041,6 +1063,7 @@ __TOC__
 | <#00dd00> kernel (i386 only)
 | <#00dd00> kernel (i386 only)
 | <#00dd00> kernel (i386 only)
+| <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
@@ -1124,6 +1147,7 @@ __TOC__
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
+| <#00dd00> kernel
 |-
 | <nowiki>[[#brk-aslr|            brk ASLR]]</nowiki>
 | <#dddddd> --
@@ -1170,6 +1194,7 @@ __TOC__
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
+| <#00dd00> kernel
 |-
 | <nowiki>[[#vdso-aslr|           VDSO ASLR]]</nowiki>
 | <#dddddd> --
@@ -1179,6 +1204,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
@@ -1262,6 +1288,7 @@ __TOC__
 | <#00dd00> gcc patch (amd64, ppc64el, s390x), package list for others
 | <#00dd00> gcc patch (amd64, ppc64el, s390x), package list for others
 | <#00dd00> gcc patch (amd64, ppc64el, s390x), package list for others
+| <#00dd00> gcc patch (amd64, ppc64el, s390x), package list for others
 |-
 | <nowiki>[[#fortify-source|Built with Fortify Source]]</nowiki>
 | <#dddddd> --
@@ -1272,6 +1299,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#00dd00> gcc patch
 | <#00dd00> gcc patch
 | <#00dd00> gcc patch
 | <#00dd00> gcc patch
@@ -1354,6 +1382,7 @@ __TOC__
 | <#00dd00> gcc patch
 | <#00dd00> gcc patch
 | <#00dd00> gcc patch
+| <#00dd00> gcc patch
 |-
 | <nowiki>[[#bindnow| Built with BIND_NOW]]</nowiki>
 | <#dddddd> --
@@ -1380,6 +1409,7 @@ __TOC__
 | <#00dd00> package list
 | <#00dd00> package list
 | <#00dd00> gcc patch (s390x), package list for others
+| <#00dd00> gcc patch (amd64, ppc64el, s390x), package list for others
 | <#00dd00> gcc patch (amd64, ppc64el, s390x), package list for others
 | <#00dd00> gcc patch (amd64, ppc64el, s390x), package list for others
 | <#00dd00> gcc patch (amd64, ppc64el, s390x), package list for others
@@ -1446,6 +1476,7 @@ __TOC__
 | <#00dd00> gcc patch (i386, amd64, ppc64el, s390x)
 | <#00dd00> gcc patch (i386, amd64, ppc64el, s390x)
 | <#00dd00> gcc patch (i386, amd64, ppc64el, s390x)
+| <#00dd00> gcc patch (i386, amd64, ppc64el, s390x)
 |-
 | <nowiki>[[#cf-protection|Built with -fcf-protection]]</nowiki>
 | <#dddddd> --
@@ -1478,6 +1509,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#00dd00> gcc patch (i386, amd64)
 | <#00dd00> gcc patch (i386, amd64)
 | <#00dd00> gcc patch (i386, amd64)
 | <#00dd00> gcc patch (i386, amd64)
@@ -1538,8 +1570,9 @@ __TOC__
 | <#00dd00> PAE, ia32 partial-NX-emulation
 | <#00dd00> PAE, ia32 partial-NX-emulation
 | <#00dd00> PAE, ia32 partial-NX-emulation
+| <#00dd00> PAE, ia32 partial-NX-emulation
 |-
-| <nowiki>[[#proc-maps|-proc-$pid-maps protection]]</nowiki>
+| <nowiki>[[#proc-maps|/proc/$pid/maps protection]]</nowiki>
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
@@ -1548,6 +1581,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#00dd00> kernel & sysctl
+| <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
@@ -1630,6 +1664,7 @@ __TOC__
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
+| <#00dd00> kernel
 |-
 | <nowiki>[[#hardlink|Hardlink restrictions]]</nowiki>
 | <#dddddd> --
@@ -1644,6 +1679,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
@@ -1722,6 +1758,7 @@ __TOC__
 | <#00dd00> kernel & sysctl
 | <#00dd00> kernel & sysctl
 | <#00dd00> kernel & sysctl
+| <#00dd00> kernel & sysctl
 |-
 | <nowiki>[[#protected-regular|Regular file restrictions]]</nowiki>
 | <#dddddd> --
@@ -1768,6 +1805,7 @@ __TOC__
 | <#00dd00> kernel & sysctl
 | <#00dd00> kernel & sysctl
 | <#00dd00> kernel & sysctl
+| <#00dd00> kernel & sysctl
 |-
 | <nowiki>[[#ptrace|        ptrace scope]]</nowiki>
 | <#dddddd> --
@@ -1782,6 +1820,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
@@ -1860,8 +1899,9 @@ __TOC__
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
+| <#00dd00> kernel
 |-
-| <nowiki>[[#dev-mem| -dev-mem protection]]</nowiki>
+| <nowiki>[[#dev-mem| /dev/mem protection]]</nowiki>
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
@@ -1906,8 +1946,9 @@ __TOC__
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
+| <#00dd00> kernel
 |-
-| <nowiki>[[#dev-kmem|  -dev-kmem disabled]]</nowiki>
+| <nowiki>[[#dev-kmem|  /dev/kmem disabled]]</nowiki>
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
@@ -1916,6 +1957,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#00dd00> kernel (-mm patch)
+| <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
@@ -1998,6 +2040,7 @@ __TOC__
 | <#98fd98> sysctl
 | <#98fd98> sysctl
 | <#98fd98> sysctl
+| <#98fd98> sysctl
 |-
 | <nowiki>[[#rodata|Read-only data sections]]</nowiki>
 | <#dddddd> --
@@ -2007,6 +2050,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
@@ -2090,8 +2134,9 @@ __TOC__
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
+| <#00dd00> kernel
 |-
-| <nowiki>[[#module-ronx|        Module RO-NX]]</nowiki>
+| <nowiki>[[#module-ronx|        Module RO/NX]]</nowiki>
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
@@ -2105,6 +2150,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
@@ -2182,6 +2228,7 @@ __TOC__
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
+| <#00dd00> kernel
 |-
 | <nowiki>[[#kASLR|Kernel Address Space Layout Randomisation]]</nowiki>
 | <#dddddd> --
@@ -2228,6 +2275,7 @@ __TOC__
 | <#00dd00> kernel (i386, amd64, arm64, and s390 only)
 | <#00dd00> kernel (i386, amd64, arm64, and s390 only)
 | <#00dd00> kernel (i386, amd64, arm64, and s390 only)
+| <#00dd00> kernel (i386, amd64, arm64, and s390 only)
 |-
 | <nowiki>[[#denylist-rare-net|Denylist Rare Protocols]]</nowiki>
 | <#dddddd> --
@@ -2243,6 +2291,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
@@ -2320,6 +2369,7 @@ __TOC__
 | <#98fd98> kernel
 | <#98fd98> kernel
 | <#98fd98> kernel
+| <#98fd98> kernel
 |-
 | <nowiki>[[#dmesg-restrict|  dmesg restrictions]]</nowiki>
 | <#dddddd> --
@@ -2366,6 +2416,7 @@ __TOC__
 | <#00dd00> kernel
 | <#00dd00> kernel
 | <#00dd00> kernel
+| <#00dd00> kernel
 |-
 | <nowiki>[[#kexec|         Block kexec]]</nowiki>
 | <#dddddd> --
@@ -2387,6 +2438,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#98fd98> sysctl
 | <#98fd98> sysctl
 | <#98fd98> sysctl
 | <#98fd98> sysctl
@@ -2458,6 +2510,7 @@ __TOC__
 | <#00dd00> amd64, kernel signature enforcement
 | <#00dd00> amd64, kernel signature enforcement
 | <#00dd00> amd64, kernel signature enforcement
+| <#00dd00> amd64, kernel signature enforcement
 |-
 | <nowiki>[[#usbguard|            usbguard]]</nowiki>
 | <#dddddd> --
@@ -2484,6 +2537,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#98fd98> kernel & userspace
 | <#98fd98> kernel & userspace
 | <#98fd98> kernel & userspace
 | <#98fd98> kernel & userspace
@@ -2550,6 +2604,7 @@ __TOC__
 | <#98fd98> kernel & userspace
 | <#98fd98> kernel & userspace
 | <#98fd98> kernel & userspace
+| <#98fd98> kernel & userspace
 |-
 | <nowiki>[[#bolt|                bolt]]</nowiki>
 | <#dddddd> --
@@ -2579,6 +2634,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#00dd00> kernel & userspace
 | <#00dd00> kernel & userspace
 | <#00dd00> kernel & userspace
 | <#00dd00> kernel & userspace
@@ -2642,6 +2698,7 @@ __TOC__
 | <#98fd98> kernel & userspace
 | <#98fd98> kernel & userspace
 | <#98fd98> kernel & userspace
+| <#98fd98> kernel & userspace
 |-
 | <nowiki>[[#kernel-lockdown|     Kernel Lockdown]]</nowiki>
 | <#dddddd> --
@@ -2675,6 +2732,7 @@ __TOC__
 | <#dddddd> --
 | <#dddddd> --
 | <#dddddd> --
+| <#00dd00> integrity only, no confidentiality
 | <#00dd00> integrity only, no confidentiality
 | <#00dd00> integrity only, no confidentiality
 | <#00dd00> integrity only, no confidentiality
@@ -2836,10 +2894,10 @@ Instructs the compiler to generate instructions to support Intel's Control-flow 
 
 ==== Non-Executable Memory ====
 Most modern CPUs protect against executing non-executable memory regions (heap, stack, etc). This is known either as Non-eXecute (NX) or eXecute-Disable (XD), and some BIOS manufacturers needlessly disable it by default, so check your <nowiki>[[Security-CPUFeatures|BIOS Settings]]</nowiki>. This protection reduces the areas an attacker can use to perform arbitrary code execution. It requires that the kernel use "PAE" addressing (which also allows addressing of physical addresses above 3GB). The 64bit and 32bit <code>-server</code> and <code>-generic-pae</code> kernels are compiled with PAE addressing. Starting in Ubuntu 9.10, this protection is partially emulated for processors lacking NX when running on a 32bit kernel (built with or without PAE). After booting, you can see what NX protection is in effect:
-* Hardware-based (via PAE mode): <pre>
-[    0.000000] NX (Execute Disable) protection: active</pre>
-* Partial Emulation (via segment limits): <pre>
-[    0.000000] Using x86 segment limits to approximate NX protection</pre>
+* Hardware-based (via PAE mode): {{{
+[    0.000000] NX (Execute Disable) protection: active}}}
+* Partial Emulation (via segment limits): {{{
+[    0.000000] Using x86 segment limits to approximate NX protection}}}
 If neither are seen, you do not have any NX protections enabled. Check your BIOS settings and CPU capabilities. If "nx" shows up in each of the "flags" lines in <code>/proc/cpuinfo</code>, it is enabled/supported by your hardware (and a PAE kernel is needed to actually use it).
 
 Starting in Ubuntu 11.04, BIOS NX settings are <nowiki>[[https://git.kernel.org/?p=linux/kernel/git/torvalds/linux-2.6.git;a=commitdiff;h=ae84739c27b6b3725993202fe02ff35ab86468e1|ignored by the kernel]]</nowiki>.

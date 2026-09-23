@@ -32,7 +32,7 @@ __TOC__
 
 === About Me ===
 
-My name is David Pires. I live in <nowiki>[[https://en.wikipedia.org/wiki/Porto|Porto]]</nowiki>, a fabulous city in the north of Portugal, and work in a Portuguese government agency as a <nowiki>[[https://en.wikipedia.org/wiki/System_administrator|systems administrator]]</nowiki>, since 1994.<<BR>>
+My name is David Pires. I live in <nowiki>[[https://en.wikipedia.org/wiki/Porto|Porto]]</nowiki>, a fabulous city in the north of Portugal, and work in a Portuguese government agency as a first as a <nowiki>[[https://en.wikipedia.org/wiki/System_administrator|systems administrator]]</nowiki>, since 1994 and currently as a <nowiki>[[https://en.wikipedia.org/wiki/Network_administrator|network administrator]]</nowiki>.<<BR>>
 Aside from my family, there are three things without which I could not keep my mental sanity, which are cinema, music and my books.<<BR>>
 My first contact with computers goes back to 1984, when my parents offer me my first computer, a <nowiki>[[http://en.wikipedia.org/wiki/ZX_Spectrum|ZX Spectrum 48K]]</nowiki>, and with it I started to learn my first programming language, <nowiki>[[http://en.wikipedia.org/wiki/BASIC|Basic]]</nowiki>.<<BR>>
 I started using Linux by the time of Jaunty Jackalope release, in 2009, and since then I've tried several other Linux distributions such as <nowiki>[[https://www.archlinux.org/|Arch Linux]]</nowiki>, <nowiki>[[http://www.centos.org/|CentOS]]</nowiki> and <nowiki>[[http://www.debian.org/|Debian]]</nowiki>, but I always came back, one way or the other, to the one I feel more comfortable with, which is (X)Ubuntu.
@@ -61,7 +61,7 @@ Currently, in Launchpad, I'm a member of the following teams:
 
 In <nowiki>[[http://irclogs.ubuntu.com/2014/02/06/%23ubuntu-meeting.html#t22:05|February 6th, 2014]]</nowiki>, I was accepted as an {{https://launchpadlibrarian.net/606495581/CoF%2014px.png}} <nowiki>[[https://launchpad.net/~ubuntumembers|Ubuntu Member]]</nowiki>.
 
-As of <nowiki>[[http://ubottu.com/meetingology/logs/xubuntu-devel/2014/xubuntu-devel.2014-04-24-19.00.moin.txt|April 24th, 2014]]</nowiki>, I was nominated by the <nowiki>[[File:xub_team.png]]</nowiki> <nowiki>[[https://launchpad.net/~xubuntu-team|Xubuntu Team]]</nowiki> as <nowiki>[[https://wiki.ubuntu.com/Xubuntu/Leaders|Xubuntu Documentation Lead]]</nowiki>.
+As of <nowiki>[[http://ubottu.com/meetingology/logs/xubuntu-devel/2014/xubuntu-devel.2014-04-24-19.00.moin.txt|April 24th, 2014]]</nowiki>, I was nominated by the <nowiki>[[File:xub_team.png]]</nowiki> <nowiki>[[https://launchpad.net/~xubuntu-team|Xubuntu Team]]</nowiki> as <nowiki>[[https://wiki.xubuntu.org/contact|Xubuntu Documentation Lead]]</nowiki>.
 
 To see a complete list of all the teams that I'm currently a member of, please follow this <nowiki>[[https://launchpad.net/~slickymaster/+participation|link]]</nowiki>.
 

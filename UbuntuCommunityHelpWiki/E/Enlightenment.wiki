@@ -34,6 +34,15 @@ sudo apt install enlightenment terminology
 
 The above commands install the default Enlightenment packages and the Terminology terminal emulator which is recommended by the official enlightenment website to be installed.
 
+== Installing E23 and later ==
+
+Since Ubuntu 20.04, enlightenment is available in the default repositories without needing any PPAs. Simply type:
+<pre>
+sudo apt install enlightenment terminology
+</pre>
+
+The PPA stopped being updated for Ubuntu releases after 22.04. The default repositories still have up-to-date versions as of 25.10.
+
 == External Links ==
 * <nowiki>[[https://www.enlightenment.org/|E Home Page]]</nowiki> - The home page of Enlightenment.
 * <nowiki>[[https://en.wikipedia.org/wiki/Enlightenment_(software)|Wikipedia page]]</nowiki> - Wikipedia page on Enlightenment.

@@ -8,9 +8,9 @@
 
 __TOC__
 
-== Overview ==
+'''This page is now out of date and in a queue to be updated and moved. Please use other resources for installation help while this process is ongoing.'''
 
-There are a number of ways for you to run and install Kubuntu:
+== Overview ==
 
 * Run Kubuntu directly from the live-cd. This is run from your computer's ram, so nothing is preserved after rebooting or powering down your system. This is a great way to check things out before beginning the install process.
 * Install Kubuntu as the sole operating system (single-boot) or alongside your exisitng operating system(s), choosing which one during the boot process (dual-boot). This may be be done either from the live-cd during at startup, or directly from a running live-cd session.

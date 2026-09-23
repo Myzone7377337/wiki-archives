@@ -47,53 +47,53 @@ sudo -i sed '/deb cdrom:/s/ universe//' /etc/apt/sources.list
 
 If you want the stable version:
  '''
-<pre>
+ <pre>
 sudo add-apt-repository ppa:mkusb/ppa
 sudo apt update
- </pre>
+ }}}
  '''
 or if you want the bleeding edge version:
  '''
- <pre>
+ {{{
 sudo add-apt-repository ppa:mkusb/unstable
 sudo apt update
- </pre>
+ }}}
  '''
 ==== Install mkusb packages ====
 
 3. Install the mkusb packages from the PPA, the standard way for example into Ubuntu Desktop and other systems with a graphic environment,
  '''
- <pre>
+ {{{
 sudo apt install mkusb
- </pre>
+ }}}
  '''
 or due to a bug in Lubuntu 25.10 and Lubuntu Resolute (to become Lubuntu 26.04 LTS)
  '''
- <pre>
+ {{{
 sudo apt install mkusb xterm
- </pre>
+ }}}
  '''
 
 The following command is an alternative for systems without a graphic environment for example Ubuntu Server,
  '''
- <pre>
+ {{{
 sudo apt install dus mkusb-nox
- </pre>
+ }}}
  '''
  
 The following command is OPTIONAL for installed systems.
 
 DO NOT use if booted from a LiveCD/LiveUSB.
 
- <pre>
+ {{{
 sudo apt full-upgrade
- </pre>
+ }}}
 
 The following command is OPTIONAL - to make '''persistent''' live drives
  '''
- <pre>
+ {{{
 sudo apt install usb-pack-efi
- </pre>
+ }}}
  '''
 ==== mkUSB-quick-start-manual ====
 
@@ -117,7 +117,7 @@ To convert the USB (or mass storage device) from bootable back to ordinary stora
 
 === When to use (and not use) isohybrid ===
 
-Cloning an iso file to a mass storage device makes a boot drive, provided it is a '''hybrid iso file''', post-processed with isohybrid. See <nowiki>[[isohybrid|this link to the isohybrid sub-page]]</nowiki>
+Cloning an iso file to a mass storage device makes a boot drive, provided it is a '''hybrid iso file''', post-processed with isohybrid. See <nowiki>[[-isohybrid|this link to the isohybrid sub-page]]</nowiki>
 
 Isohybrid should be run only once, and many iso files are already treated before uploading to the internet. '''The Ubuntu iso files are already treated with isohybrid'''. Use isohybrid only, if the USB drive does not boot after installing using mkusb.
 
@@ -126,7 +126,7 @@ This method with '''dd''' has a high success rate. It is particularly good for p
 === Upgrade mkusb ===
 
 Normally you want to keep and '''installed system''' up to date automatically, via a GUI application or the following command lines,
-<pre>
+{{{
 sudo apt update
 sudo apt full-upgrade
 </pre>
@@ -155,9 +155,9 @@ There are more details in
 man mkusb
 </pre>
 
-and at <nowiki>[[advanced]]</nowiki>.
+and at <nowiki>[[-advanced]]</nowiki>.
 
-Using mkusb and mkusb-nox from the command line is described in more detail at <nowiki>[[advanced]]</nowiki>
+Using mkusb and mkusb-nox from the command line is described in more detail at <nowiki>[[-advanced]]</nowiki>
 
 === Autoclone ===
 
@@ -183,7 +183,7 @@ mkusb file.iso  # Skips file selection and opens a target selection dialog
 
 Most Desktop users will want this version. '''dus''' is an acronym: '''D'''o '''U'''SB '''S'''tuff. It can create LiveUSB with and without persistence.
 
-Details about installation and other aspects of using mkusb via GUI are described at <nowiki>[[gui]]</nowiki> <nowiki>[[File:/artwork/mkusb24.png]]</nowiki>
+Details about installation and other aspects of using mkusb via GUI are described at <nowiki>[[-gui]]</nowiki> <nowiki>[[File:/artwork/mkusb24.png]]</nowiki>
 
 'dus' manages a set of shellscripts for tasks indicated by the names:
 * dus-live
@@ -203,7 +203,7 @@ Details about installation and other aspects of using mkusb via GUI are describe
 | <#CCFF99>  2. The '''standard''' tool for a persistent live drive is '''dus-persistent''' which is well debugged and tweaked to work is most cases, but when there are problems, select 'dus-iso2usb'.
 |}
 
-There are more details at <nowiki>[[dus-iso2usb]]</nowiki>.
+There are more details at <nowiki>[[-dus-iso2usb]]</nowiki>.
 
 ==== mkusb-nox: For Servers and Shell Environments ====
 
@@ -219,15 +219,15 @@ sudo mkusb-nox file.iso all   # 'all' to show all mass storage devices
 
 <nowiki>[[File:mkusb-nox_same-iso_w-lsblk.jpg]]</nowiki>
 
-You find a detailed description in the <nowiki>[[attachment:mkUSB-quick-start-manual-nox.pdf|NOX Quick Start Manual]]</nowiki> and at '''<nowiki>[[v7]]</nowiki>'''.
+You find a detailed description in the <nowiki>[[attachment:mkUSB-quick-start-manual-nox.pdf|NOX Quick Start Manual]]</nowiki> and at '''<nowiki>[[-v7]]</nowiki>'''.
 
 Please notice that 'mkusb-dus' works also in text mode and will replace 'mkusb-nox' for many users.
 
 ==== mkusb-min: The smallest safety belt over dd ====
 
-Useful for simple installs, '''mkusb-min''' is a small (5.4 kiB) shellscript, that is easy to read and understand. It needs no installation -- you can run the shellscript locally (in the current directory). See the <nowiki>[[min|detailed description]]</nowiki>. This script can only create LiveUSBs '''without''' persistence.
+Useful for simple installs, '''mkusb-min''' is a small (5.4 kiB) shellscript, that is easy to read and understand. It needs no installation -- you can run the shellscript locally (in the current directory). See the <nowiki>[[-min|detailed description]]</nowiki>. This script can only create LiveUSBs '''without''' persistence.
 
-However, the slightly larger (20kiB) '''mkusb-minp''' version can create LiveUSBs '''with''' persistence from iso files of Ubuntu 19.10 and Debian 10 and newer. See the <nowiki>[[minp|detailed description]]</nowiki>.
+However, the slightly larger (20kiB) '''mkusb-minp''' version can create LiveUSBs '''with''' persistence from iso files of Ubuntu 19.10 and Debian 10 and newer. See the <nowiki>[[-minp|detailed description]]</nowiki>.
 
 ==== mkusb-bas: When Nothing Else Works ====
 
@@ -243,14 +243,14 @@ There are some commands in mkusb, mkusb-nox and mkusb-min, which are not availab
 
 {| class="wikitable"
 |-
-| <#CCFF99> See details at '''<nowiki>[[plug]]</nowiki>''' - wrapper shell-script with a GUI, can make persistent live drives via a new plug-in test method.
+| <#CCFF99> See details at '''<nowiki>[[-plug]]</nowiki>''' - wrapper shell-script with a GUI, can make persistent live drives via a new plug-in test method.
 |}
 
 ==== Additional Feature: mkusb-xscl ====
 
 '''mkusb-xscl''' is a bash shellscript, that wraps a graphical user interface around '''xorriso-dd-target'''. It can help you manage all the options and save the settings, that work best for you.
 
-See details at '''<nowiki>[[xscl]]</nowiki>''' - wrapper shell-script with a GUI, manages all the options of '''xorriso-dd-target'''
+See details at '''<nowiki>[[-xscl]]</nowiki>''' - wrapper shell-script with a GUI, manages all the options of '''xorriso-dd-target'''
 
 === Is Thunar cluttering your Desktop? ===
 
@@ -276,16 +276,16 @@ If the file manager alias file browser is automatically started when a partition
 
 '''dus''' and its graphical front end '''guidus''' are easy to use and to maintain.
 
- - <nowiki>[[12|v12 Release Notes|]]</nowiki> <<BR>>
- - <nowiki>[[gui#Merged_to_a_common_version_again_-_.27dus.27|more details about v12]]</nowiki> <<BR>>
- - <nowiki>[[gui|guidus detailed instructions]]</nowiki> <nowiki>[[File:/artwork/mkusb24.png]]</nowiki>  <nowiki>[[File:12/mkusb-dus-console-and-welcome-trim.png]]</nowiki>
+ - <nowiki>[[-12|v12 Release Notes|]]</nowiki> <<BR>>
+ - <nowiki>[[-gui#Merged_to_a_common_version_again_-_.27dus.27|more details about v12]]</nowiki> <<BR>>
+ - <nowiki>[[-gui|guidus detailed instructions]]</nowiki> <nowiki>[[File:/artwork/mkusb24.png]]</nowiki>  <nowiki>[[File:12/mkusb-dus-console-and-welcome-trim.png]]</nowiki>
 
 {| class="wikitable"
 |-
 | <#CCFF99> '''New''': mkusb version 22 introduces '''dus-iso2usb'''
 |}
 
- - <nowiki>[[22|v22 Release Notes|]]</nowiki> <<BR>>
+ - <nowiki>[[-22|v22 Release Notes|]]</nowiki> <<BR>>
 
 The main function of '''dus-iso2usb''' is to
 
@@ -299,19 +299,19 @@ This makes a system that can boot via grub into an iso file both in UEFI mode an
 
 mkusb versions 7-11 are deprecated. Find details about improvements and added features at
 
-* text mode: <nowiki>[[v7]]</nowiki> <nowiki>[[v8]]</nowiki>
-* GUI mode <nowiki>[[v9]]</nowiki> <nowiki>[[v10]]</nowiki> <nowiki>[[v11]]</nowiki> <nowiki>[[File:/artwork/mkusb24.png]]</nowiki>
+* text mode: <nowiki>[[-v7]]</nowiki> <nowiki>[[-v8]]</nowiki>
+* GUI mode <nowiki>[[-v9]]</nowiki> <nowiki>[[-v10]]</nowiki> <nowiki>[[-v11]]</nowiki> <nowiki>[[File:/artwork/mkusb24.png]]</nowiki>
 
 ==== Newer Releases ====
 
-mkusb-dus 'was' version 12 until May 2022, when it was 'renumbered' to match the current year: version 22. Find details about improvements and added features at <nowiki>[[12]]</nowiki> <nowiki>[[22]]</nowiki> <nowiki>[[23]]</nowiki> <nowiki>[[24]]</nowiki> <nowiki>[[gui]]</nowiki> <nowiki>[[File:/artwork/mkusb24.png]]</nowiki>
+mkusb-dus 'was' version 12 until May 2022, when it was 'renumbered' to match the current year: version 22. Find details about improvements and added features at <nowiki>[[-12]]</nowiki> <nowiki>[[-22]]</nowiki> <nowiki>[[-23]]</nowiki> <nowiki>[[-24]]</nowiki> <nowiki>[[-25]]</nowiki> <nowiki>[[-26]]</nowiki> <nowiki>[[-gui]]</nowiki> <nowiki>[[File:/artwork/mkusb24.png]]</nowiki>
 
-mkusb-plug: <nowiki>[[plug]]</nowiki>
+mkusb-plug: <nowiki>[[-plug]]</nowiki>
 
 ==== If you use mkusb, help test it! ====
 
  Grab a <nowiki>[[https://github.com/sudodus/tarballs|tarball]]</nowiki>. <<BR>>
- Review the <nowiki>[[Testing|Testing Page]]</nowiki> to see how to provide feedback and report problems. <<BR>>
+ Review the <nowiki>[[-Testing|Testing Page]]</nowiki> to see how to provide feedback and report problems. <<BR>>
  Also report workflow issues that could be fixed by a new feature.
 
 === Tarballs ===
@@ -325,24 +325,24 @@ Ubuntu users should use the '''<nowiki>[[#Quick Start]]</nowiki> section at the 
 If you encounter problems with the Quick Start instructions:
 
 * Ubuntu systems must enable the "Universe" pocket of the Ubuntu repositories in order to install the ''pv'' package (18.04 and older) and the ''wmctrl'' package. Some flavors of Ubuntu, including Kubuntu, Lubuntu, and Xubuntu already have Universe enabled. Other flavors should use the following command to enable Universe:
- <pre>
+ {{{
  sudo add-apt-repository universe
- </pre>
-* Use only versions of Ubuntu that are within their community support window (5 years LTS, 9 months non-LTS). After end of community support there will be no updates, not even security updates. If you waited too long and can no longer install programs from the Ubuntu repositories due to end of life, you can use a web browser to install '''<nowiki>[[min|mkusb-min]]</nowiki>''' and use it in a terminal window (or in text mode) to create a live system in a USB drive or memory card. This is more tedious than using the PPA, so don't wait until end of life.
+ }}}
+* Use only versions of Ubuntu that are within their community support window (5 years LTS, 9 months non-LTS). After end of community support there will be no updates, not even security updates. If you waited too long and can no longer install programs from the Ubuntu repositories due to end of life, you can use a web browser to install '''<nowiki>[[-min|mkusb-min]]</nowiki>''' and use it in a terminal window (or in text mode) to create a live system in a USB drive or memory card. This is more tedious than using the PPA, so don't wait until end of life.
 
 === Debian ===
 
-How to <nowiki>[[install-to-debian|install the ppa 'manually']]</nowiki>.
+How to <nowiki>[[-install-to-debian|install the ppa 'manually']]</nowiki>.
 
 === Other linux distros ===
 
 When a linux distro is getting close to end of life, please try to find a new version or another distro with support for a fair interval of time, and that works in the computer. After end of life there will be no updates, not even security updates, so the connection to internet is no longer secure.
 
-If you can run a web browser, you can install '''<nowiki>[[min|mkusb-min]]</nowiki>''' and use it in a terminal window (or in text mode) to create a live system in a USB drive or memory card. This works, but is not very convenient, if you are not used to terminal windows and command lines.
+If you can run a web browser, you can install '''<nowiki>[[-min|mkusb-min]]</nowiki>''' and use it in a terminal window (or in text mode) to create a live system in a USB drive or memory card. This works, but is not very convenient, if you are not used to terminal windows and command lines.
 
 Downloading and using '''mkusb-installer''' works with several linux distros (but is getting deprecated in favour of using <nowiki>[[https://github.com/sudodus/tarballs|tarballs]]</nowiki>). This method is independent of the Debian - Ubuntu tools for installation. It works with Ubuntu and Debian too, but lacks the automatic updating that comes with the PPA.
 
-You can use '''mkusb''' to create a USB boot drive or a memory card with a new operating system to <nowiki>[[https://ubuntuforums.org/showthread.php?t=2230389|try (and install if it works well)]]</nowiki>.
+You can use '''mkusb''' to create a USB boot drive or a memory card with a new operating system to <nowiki>[[https://ubuntuforums.popey.com/showthread.php?t=2230389|try (and install if it works well)]]</nowiki>.
 
 === Windows Installation ===
 
@@ -403,7 +403,7 @@ Most of the time it is enough with a live only USB pendrive and only a waste of 
 
 This is a system that is prepared automatically by mkusb.
 
-See the following sub-page for more details: <nowiki>[[persistent]]</nowiki>
+See the following sub-page for more details: <nowiki>[[-persistent]]</nowiki>
 
 <nowiki>[[File:/pictures/persist-12-select-persistent.png]]</nowiki>
 
@@ -411,7 +411,7 @@ See the following sub-page for more details: <nowiki>[[persistent]]</nowiki>
 
 This is a system that uses a cloned read-only boot drive (CD, DVD, USB) and another drive with partitions for persistence.
 
-See the following sub-page for more details: <nowiki>[[sp]]</nowiki>
+See the following sub-page for more details: <nowiki>[[-sp]]</nowiki>
 
 === Expansion and imaging from a compressed image file ===
 
@@ -431,13 +431,13 @@ In order to re-use the pendrive after installing a linux operating system, it is
 
 Sometimes there are data on a USB drive, that make the operating system or some tool confused. In such cases it often helps to wipe the first megabyte, overwrite it with zeros. But it means that '''all data on the drive will be lost'''. See the following sub-page for more details.
 
-<nowiki>[[wipe]]</nowiki>
+<nowiki>[[-wipe]]</nowiki>
 
 ==== Wipe the whole device ====
 
 To '''wipe-whole-device''' with mkusb is a very special task, that is not recommended except in very special situations. Other tools are better to wipe an entire HDD or SSD for example '''hdparm''' or '''DBAN'''.
 
-<nowiki>[[wipe#Wipe_the_whole_device]]</nowiki>
+<nowiki>[[-wipe#Wipe_the_whole_device]]</nowiki>
 
 <nowiki>[[File:/pictures/dus-18-restore-to-standard-storage-device.png]]</nowiki>
 
@@ -447,7 +447,7 @@ To '''wipe-whole-device''' with mkusb is a very special task, that is not recomm
 
 {| class="wikitable"
 |-
-| <#CCFF99> There is a new Windows installer via '''<nowiki>[[plug|mkusb-plug]]</nowiki>''' that works well in 64-bit versions of Ubuntu with Windows versions 7, 8, 10, and 11. This method is also ported to '''mkusb-dus''' (version 12.5.7) using the same tool '''mkusb-tow'''.
+| <#CCFF99> There is a new Windows installer via '''<nowiki>[[-plug|mkusb-plug]]</nowiki>''' that works well in 64-bit versions of Ubuntu with Windows versions 7, 8, 10, and 11. This method is also ported to '''mkusb-dus''' (version 12.5.7) using the same tool '''mkusb-tow'''.
 |}
 
 The following [old] method works well both with 32-bit and 64-bit versions of Ubuntu, also older versions. This method is tested and works with Windows versions 7, 8, and early editions of 10. With 64-bit versions of Windows, the target drive will be able to boot and install in BIOS mode as well as in UEFI mode.
@@ -464,16 +464,16 @@ Several (but not all) Windows 10 iso files released in October 2018, '''Win10_18
 
 Another method is developed to work with the huge file '''install.wim'''. You can this method with Windows 7 - Windows 11.
 
-* use '''<nowiki>[[plug|mkusb-plug]]</nowiki>''' with the tool '''mkusb-tow'''. This works in both BIOS and UEFI mode also with secure boot.
-* use '''mkusb-dus''' with the same tool '''mkusb-tow'''. See <nowiki>[[https://ubuntuforums.org/showthread.php?t=1958073&page=48&p=13961108#post13961108|this link]]</nowiki>.
+* use '''<nowiki>[[-plug|mkusb-plug]]</nowiki>''' with the tool '''mkusb-tow'''. This works in both BIOS and UEFI mode also with secure boot.
+* use '''mkusb-dus''' with the same tool '''mkusb-tow'''. See <nowiki>[[https://ubuntuforums.popey.com/showthread.php?t=1958073&page=48&p=13961108#post13961108|this link]]</nowiki>.
 * use '''woeusb''' according to <nowiki>[[https://askubuntu.com/questions/1097560/woeusb-error-code-256-with-ntfs-formatted-usb/1098185#1098185|this link]]</nowiki>. This works in both BIOS and UEFI mode but not with secure boot.
-* '''do it yourself''' with detailed help at <nowiki>[[https://help.ubuntu.com/community/Installation/iso2usb/diy/windows-installer-for-big-files|help.ubuntu.com/community/Installation/iso2usb/diy/windows-installer-for-big-files]]</nowiki>. This works in both BIOS and UEFI mode also with secure boot. It is actually the same method that is automated in '''<nowiki>[[plug|mkusb-plug]]</nowiki>'''.
+* '''do it yourself''' with detailed help at <nowiki>[[https://help.ubuntu.com/community/Installation/iso2usb/diy/windows-installer-for-big-files|help.ubuntu.com/community/Installation/iso2usb/diy/windows-installer-for-big-files]]</nowiki>. This works in both BIOS and UEFI mode also with secure boot. It is actually the same method that is automated in '''<nowiki>[[-plug|mkusb-plug]]</nowiki>'''.
 
 ==== mkusb-nox ====
 
 '''mkusb-nox 11.1.2''': added feature: make USB install drive for Windows.
 
-See more details at <nowiki>[[v7#Making_a_USB_drive_to_install_Windows]]</nowiki>
+See more details at <nowiki>[[-v7#Making_a_USB_drive_to_install_Windows]]</nowiki>
 
 ==== dus with guidus alias mkusb version 12 ====
 
@@ -493,16 +493,16 @@ See this '''text dump with the whole output''', which can be seen if you scroll 
 
 Screendumps were made with the previous and current versions of mkusb.
 
-* <nowiki>[[pictures|Pictures for a fast internet connection]]</nowiki>
-* <nowiki>[[pictlinks|Links to individual pictures for a slow internet connection]]</nowiki>
+* <nowiki>[[-pictures|Pictures for a fast internet connection]]</nowiki>
+* <nowiki>[[-pictlinks|Links to individual pictures for a slow internet connection]]</nowiki>
 * <nowiki>[[attachment:-v10-mkusb-in-ubuntu_slideshow.pdf| PDF slideshow of mkusb 10.1.1 in Ubuntu 14.04.2 ]]</nowiki>
-* <nowiki>[[sp-screendumps|Pictures describing persistence]]</nowiki>
-* <nowiki>[[text-screen-dumps|Text screendumps showing the workflow]]</nowiki>
+* <nowiki>[[-sp-screendumps|Pictures describing persistence]]</nowiki>
+* <nowiki>[[-text-screen-dumps|Text screendumps showing the workflow]]</nowiki>
 
-<nowiki>[[artwork|Artwork]]</nowiki> subwiki page, a place for icons and misc stuff.
+<nowiki>[[-artwork|Artwork]]</nowiki> subwiki page, a place for icons and misc stuff.
 
 <nowiki>[[https://rufus.ie|Rufus]]</nowiki> is a corresponding tool for Windows to make USB pendrives boot Ubuntu and other linux operating systems.
 
 You find more and general information at <nowiki>[[https://help.ubuntu.com/community/Installation/FromUSBStick]]</nowiki>
 
-This page grew from this <nowiki>[[http://ubuntuforums.org/showthread.php?t=1958073|Ubuntu Forums tutorial "Howto make USB boot drives"]]</nowiki>.
+This page grew from this <nowiki>[[http://ubuntuforums.popey.com/showthread.php?t=1958073|Ubuntu Forums tutorial "Howto make USB boot drives"]]</nowiki>.

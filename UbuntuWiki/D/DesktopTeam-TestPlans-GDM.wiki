@@ -16,7 +16,7 @@ These should also be run for all GDM Stable Release Updates.
 
 '''Login'''
 
-# sudo apt install gnome-session
+# sudo apt install gnome-session gnome-classic
 # Install the update.
 # Log out.
 # Select your name on the login screen.
@@ -27,6 +27,7 @@ These should also be run for all GDM Stable Release Updates.
 ** GNOME Classic
 ** Ubuntu
 ** Ubuntu on Xorg
+    (only for ubuntu 25.04 or older)
 
 === Test Case 2 ===
 
@@ -52,11 +53,11 @@ In absence of a physical smart card, this test can be performed by simulating on
 
 # Configure user to enable fingerprint authentication from user session (Settings -> Users -> Fingerprint)
 # Ensure that after the user has been selected, it's possible to log-in with fingerprint
-# Once logged in, unlocking the screen should work with smart card
+# Once logged in, unlocking the screen should work with fingerprint
 
 === Test Case 5.a ===
 
-'''NVIDIA (Ubuntu 24.10 or newer)''' - ''For desktops or laptops with NVIDIA graphics''
+'''NVIDIA (Ubuntu 24.10 and 25.04)''' - ''For desktops or laptops with NVIDIA graphics''
 
 This test verifies the default session type for NVIDIA systems running Ubuntu 24.10 or newer
 
@@ -66,7 +67,7 @@ This test verifies the default session type for NVIDIA systems running Ubuntu 24
 # Verify that all these options are listed:
 ** Ubuntu
 ** Ubuntu on Xorg
-1. Verify that there does not exist:
+ 1. Verify that there does not exist:
 ** Ubuntu on Wayland
 
 === Test Case 5.b ===
@@ -81,8 +82,33 @@ This test verifies the default session type for NVIDIA systems running Ubuntu 24
 # Verify that all these options are listed:
 ** Ubuntu
 ** Ubuntu on Wayland
-1. Verify that there does not exist:
+ 1. Verify that there does not exist:
 ** Ubuntu on Xorg
+
+=== Test Case 5.c ===
+
+'''NVIDIA (Ubuntu 25.10 and newer)'''
+
+Skip. NVIDIA is no longer handled as a special case.
+
+=== Test Case 6 ===
+
+'''First boot'''
+
+On the first boot of a pre-installed images with no configured users, GDM will hand-off the desktop to a temporary session that runs gnome-initial-setup as a first-boot configuration wizard.
+
+This test will simulate a first boot.
+
+# Reboot to the GRUB menu (hold Esc at the BIOS splash screen)
+# With the up/down arrow keys, highlight "Ubuntu"
+# Press 'e'
+# With the up/down arrow keys, highlight the line beginning with "linux "
+# Press End
+# Type " gnome.initial-setup=1"
+# Press Ctrl+X
+# Verify that you booted into the first-boot wizard.
+
+Beware that navigating through the first-boot wizard will overwrite system configuration, so avoid doing that and immediatly reboot instead.
 
 === What Could Go Wrong ===
 

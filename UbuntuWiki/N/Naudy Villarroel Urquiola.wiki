@@ -17,8 +17,8 @@ __TOC__
 ------
 === About me: ===
 
-My name is  Naudy Villarroel Urquiola, I'm from Venezuela. I speak Spanish (native) and English (basic). I am computer Technologist. My first Livecd Ubuntu Breezy Badger 5.10 (http://goo.gl/SZEUKp) in April 2006. My first event was free software in Ministry of Science and Technology in Caracas in 2006.My first event was the 2nd anniversary ubuntu in the "Bolivarian University of Venezuela (UBV) in July 2008 (http://goo.gl/tng5cb) .
-I am currently active as a member of Ubuntu community in Venezuela, performing several events local, regional, and international.
+My name is  Naudy Villarroel Urquiola, I was born in Venezuela..  I am computer Technologistand Business Administration. My first Livecd Ubuntu Breezy Badger 5.10 (http://goo.gl/SZEUKp) in April 2006. My first event was free software in Ministry of Science and Technology in Caracas in 2006.My first event was the 2nd anniversary ubuntu in the "Bolivarian University of Venezuela (UBV) in July 2008 (http://goo.gl/tng5cb) .
+I am currently active as a member of Ubuntu community in LATAM, performing several events local, regional, and international.Organizer of UbuCon Latin America (UbuConLA),
 
   {*}  Ubuntu Member since 2013-12-07 
 
@@ -76,6 +76,27 @@ I am currently active as a member of Ubuntu community in Venezuela, performing s
 
                       {{https://wiki.ubuntu.com/Naudy%20Villarroel%20Urquiola?action=AttachFile&do=get&target=2+Collage_opt.jpg}} {{https://wiki.ubuntu.com/Naudy%20Villarroel%20Urquiola?action=AttachFile&do=get&target=1+Collage_opt.jpg}}
 ------
+
+{| class="wikitable"
+|-
+| <style="background:#F07746;color:#ffffff;align:center;border:0;margin:0;">'''Year 2025'''
+|}
+
+ {*} UbuConLa Cuenca 2025, Ecuador, "Organization" 
+
+ {*} Pre-UbuConLa Cuenca 2025 (Online), Ecuador, "Organization"
+
+{| class="wikitable"
+|-
+| <style="background:#F07746;color:#ffffff;align:center;border:0;margin:0;">'''Year 2024'''
+|}
+
+ {*} UbuConLa Barranquilla 2024, Colombia, "Organization".
+
+ {*} Summit País Digital 2024, Santiago - Chile, "Paticipation".
+
+ {*} XVIII Aniversario Ubuntu-ve(evento online)“Organization”.
+
 {| class="wikitable"
 |-
 | <style="background:#F07746;color:#ffffff;align:center;border:0;margin:0;">'''Year 2023'''
@@ -83,9 +104,9 @@ I am currently active as a member of Ubuntu community in Venezuela, performing s
 
  {*} Summit País Digital 2023, Santiago - Chile, "Paticipation".
 
- {*} UbuConLa Medillin 2023, Colombia, "Speaker and Paticipation".
+ {*} UbuConLa Medillin 2023, Colombia, "Organization , Speaker".
 
- {*} XVII Aniversario Ubuntu-ve(evento online)“Organización y Participación”.
+ {*} XVII Aniversario Ubuntu-ve(evento online)“Organizatión”.
 
  {*} Logistica en la Nube.UNEFA-Núcleo Aragua "Paticipation".
 
@@ -360,4 +381,4 @@ I think Naudy is an example of what it means to be a Member Ubuntu. CarlosNeyPas
 
 {*} Naudy is a great companion, who travels from country to country latinoamerica advantage to attend events free software. I got to meet him in Uruguay for UbuConLA 2013, where I have to carry the flag of Ubuntu-VE in the main hall of the University of the Republic, thus giving greater international support for the event. <nowiki>[[z37a|Z37A]]</nowiki>
 
-{*} I had the opportunity to meet Ubuconla naudy in 2013, and I found a person with great willingness to help out in the event, a hard worker and an excellent person, an excellent Ubuntu Member <nowiki>[[ https:--wiki.ubuntu.com-Ratman | Alejandro Esperon (Ratman) ]]</nowiki>
+{*} I had the opportunity to meet Ubuconla naudy in 2013, and I found a person with great willingness to help out in the event, a hard worker and an excellent person, an excellent Ubuntu Member <nowiki>[[ https://wiki.ubuntu.com/Ratman | Alejandro Esperon (Ratman) ]]</nowiki>

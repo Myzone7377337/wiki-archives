@@ -50,7 +50,6 @@ The idea would be to:
 === Liège, Sunday 21/10/07 ===
  
 ==== Participants ====
-* PierreVorhagen
 * Reginald Ratz (snulkid)
 * g-traxx (ubuntu-fr active member)
 * Yorrit

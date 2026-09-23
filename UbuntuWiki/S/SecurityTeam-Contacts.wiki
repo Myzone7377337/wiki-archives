@@ -27,7 +27,9 @@ __TOC__
 
 or
  
-* you may send en email to security@ubuntu.com. GPG can be used to encrypt these messages. Please use the following key:
+* you may send en email to security@ubuntu.com. GPG can be used to encrypt these messages. 
+
+Please use the following key:
 {| class="wikitable"
 |-
 | Name
@@ -43,12 +45,11 @@ Please also see the <nowiki>[[ https://ubuntu.com/security/disclosure-policy | U
 
 === To participate in the Ubuntu Security Team ===
 
-* Please see <nowiki>[[SecurityTeam/GettingInvolved|GettingInvolved]]</nowiki>.
+* Please see <nowiki>[[SecurityTeam-GettingInvolved|GettingInvolved]]</nowiki>.
 
 === Contacting Ubuntu Security Team Members directly ===
 
-All security team members can be reached at security@ubuntu.com. The GPG key ids for the security team members can be found on their individual Launchpad pages which are linked to on <nowiki>[[https://launchpad.net/~ubuntu-security/+members#active|the security team's page]]</nowiki>. Currently, the keys are:
- 
+All security team members can be reached through security@ubuntu.com. The GPG key ids for the security team members can be found on their individual Launchpad pages which are linked to on <nowiki>[[https://launchpad.net/~ubuntu-security/+members#active|the security team's page]]</nowiki>. Currently, the keys are:
 
 === New bot account for sending USN emails ===
 

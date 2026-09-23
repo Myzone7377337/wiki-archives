@@ -9,13 +9,14 @@
 __TOC__
 
 === Current Release in Development ===
-* ~+'''<nowiki>[[ManticMinotaur-ReleaseSchedule|23.10 – "Mantic Minotaur"]]</nowiki>'''+~
+* ~+'''<nowiki>[[StonkingStingray-ReleaseSchedule|26.10 – "Stonking Stingray"]]</nowiki>'''+~
 
 === Supported Standard Releases ===
-* '''<nowiki>[[LunarLobster-ReleaseSchedule|23.04 – "Lunar Lobster"]]</nowiki>'''
+* '''<nowiki>[[ResoluteRaccoon-ReleaseSchedule|26.04 LTS – "Resolute Raccoon"]]</nowiki>'''
+* '''<nowiki>[[NobleNumbat-ReleaseSchedule|24.04 LTS – "Noble Numbat"]]</nowiki>'''
+* '''<nowiki>[[JammyJellyfish-ReleaseSchedule|22.04 LTS – "Jammy Jellyfish"]]</nowiki>'''
 
 === Supported LTS Releases (ESM) ===
-* <nowiki>[[JammyJellyfish-ReleaseSchedule|22.04 LTS – "Jammy Jellyfish"]]</nowiki>
 * <nowiki>[[FocalFossa-ReleaseSchedule|20.04 LTS – "Focal Fossa"]]</nowiki>
 * <nowiki>[[BionicBeaver-ReleaseSchedule|18.04 LTS – "Bionic Beaver"]]</nowiki>
 * <nowiki>[[XenialXerus-ReleaseSchedule|16.04 LTS – "Xenial Xerus"]]</nowiki>

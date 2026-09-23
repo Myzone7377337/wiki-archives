@@ -33,7 +33,7 @@ I have signed the code of conduct (https://launchpad.net/~vlijm/+codesofconduct)
 | <nowiki>[[https://github.com/Jacob-Vlijm|Jacob-Vlijm]]</nowiki>
 |-
 | Email
-| jp.vlijm@gmail.com
+| vlijm@proton.me
 |-
 | IRC
 | vlijm on freenode

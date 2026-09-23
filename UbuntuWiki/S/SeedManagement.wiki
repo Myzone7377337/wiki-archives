@@ -9,6 +9,7 @@
 __TOC__
 
 
+
 == Definition ==
 '''Seeds''' are the lists of packages we want to include in the distribution.  We have seven primary seeds, '''minimal''', '''boot''', '''standard''', '''desktop''', '''ship''', '''live''', and '''supported''', that define what goes into the archive's '''main''' component.  The '''minimal''', '''boot''', '''standard''', '''desktop''', and either '''ship''' or '''live''' seeds go onto our CDs and the '''supported''' packages are available from the FTP site.
 
@@ -21,7 +22,7 @@ The actual movement of packages between main and universe is semi-automatic: a t
 == Graph ==
 
 Germinate was modified so that it produces a structure.dot file which can be used to produce a graph of the seeds structure using graphviz. This can be useful to figure how the seed are overall linked:
-<pre>
+ <pre>
 wget http://people.canonical.com/~ubuntu-archive/germinate-output/ubuntu.precise/structure.dot
 dot -Tpng structure.dot > structure.png
 </pre>

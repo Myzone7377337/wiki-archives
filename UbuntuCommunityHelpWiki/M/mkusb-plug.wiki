@@ -112,14 +112,12 @@ The mkusb-plug tools are shellscripts plus some help files and they are also ava
 
 ==== Download two files ====
 
-Download the tarball and the checksum file from one of the following web sites (github or phillw),
+Download the tarball and the checksum file from the github web site,
 
 * tarball '''mkusb-plug-plus-tools.tar.gz''' (~ 1.5 M, Mibibytes)
-** <nowiki>[[https://github.com/sudodus/tarballs/raw/master/mkusb-plug-plus-tools.tar.gz]]</nowiki>, or
-** <nowiki>[[https://phillw.net/isos/linux-tools/mkusb/mkusb-plug-plus-tools.tar.gz]]</nowiki>
+** <nowiki>[[https://github.com/sudodus/tarballs/raw/master/mkusb-plug-plus-tools.tar.gz]]</nowiki>
 * signed checksum file '''mkusb-plug-plus-tools.tar.gz.md5.asc''' for the tarball
-** <nowiki>[[https://github.com/sudodus/tarballs/raw/master/mkusb-plug-plus-tools.tar.gz.md5.asc]]</nowiki>, or
-** <nowiki>[[https://phillw.net/isos/linux-tools/mkusb/mkusb-plug-plus-tools.tar.gz.md5.asc]]</nowiki>
+** <nowiki>[[https://github.com/sudodus/tarballs/raw/master/mkusb-plug-plus-tools.tar.gz.md5.asc]]</nowiki>
 
 ==== Check with md5um ====
 
@@ -134,7 +132,7 @@ The 'improperly formatted lines' are the lines belonging to a gpg signature.
 
 {| class="wikitable"
 |-
-| <#CCFF99> There are more details about md5sum and gpg signature at '''<nowiki>[[md5sum]]</nowiki>'''
+| <#CCFF99> There are more details about md5sum and gpg signature at '''<nowiki>[[-md5sum]]</nowiki>'''
 |}
 
 ==== Extract in a local directory ====
@@ -164,8 +162,6 @@ sudo ./installer r
 
 There are checks for necessary programs, that you may have to install into your version or flavour of Ubuntu or Debian.
 
-You can view the files at this link: <nowiki>[[https://phillw.net/isos/linux-tools/mkusb/plug-dir/]]</nowiki>
-
 == Graphical user interface ==
 
 There is a graphical user interface, and there is a '''desktop file''', so you can start mkusb-plug
@@ -173,7 +169,7 @@ There is a graphical user interface, and there is a '''desktop file''', so you c
 * like any other graphical program
 * but also from a terminal window according to the help text
 
- <pre>
+ {{{
 $ mkusb-plug -h
 Tool to create boot drive, typically a live USB drive
 Usage:    mkusb-plug [source file]
@@ -185,7 +181,7 @@ Examples:
           mkusb-plug windows.iso         # make installer drive
           mkusb-plug -v                  # version
           mkusb-plug -h                  # help
- </pre>
+ }}}
 
  The terminal window will serve as console for the program.
 

@@ -65,39 +65,51 @@ Note: This page needs a vacuum.
 The following links are to Wiki pages that I have created, have contributed to, or are currently collaborating on.
 
 === Currently ===
-* <nowiki>[[PaulSchulz/TimeZones]]</nowiki>
-* <nowiki>[[PaulSchulz/UbuntuServerDocumentation]]</nowiki>
-* <nowiki>[[PaulSchulz/InteractiveDesktopBackground]]</nowiki>
-* <nowiki>[[PaulSchulz/Projects/AustralianTeamPackage]]</nowiki>
+* <nowiki>[[PaulSchulz-TimeZones]]</nowiki>
+* <nowiki>[[PaulSchulz-UbuntuServerDocumentation]]</nowiki>
+* <nowiki>[[PaulSchulz-InteractiveDesktopBackground]]</nowiki>
+* <nowiki>[[PaulSchulz-Projects-AustralianTeamPackage]]</nowiki>
 * PaulSchulz/IntroducingUbuntuToNewUsers
-* <nowiki>[[AustralianTeam/Events/ITDiscoveryDayMawsonLakes2007]]</nowiki>
-* <nowiki>[[AustralianTeam/Projects/NotForProfitReport]]</nowiki>
-* <nowiki>[[AustralianTeam/Projects/NotForProfitDocumentation]]</nowiki>
+* <nowiki>[[AustralianTeam-Events-ITDiscoveryDayMawsonLakes2007]]</nowiki>
+* <nowiki>[[AustralianTeam-Projects-NotForProfitReport]]</nowiki>
+* <nowiki>[[AustralianTeam-Projects-NotForProfitDocumentation]]</nowiki>
 * BackupOfPackageUserData
 * PaulSchulz/SouthAustralianParliament
 * UbuntuBooks - Maintain 'English Books' section, including 'Not yet published' books.
-* <nowiki>[[AustralianTeam/Projects/UbuntuFriendlyComputerShops]]</nowiki>
+* <nowiki>[[AustralianTeam-Projects-UbuntuFriendlyComputerShops]]</nowiki>
 * PaulSchulz/AustralianMedia
 
 === Past ===
 
 * <nowiki>[[ATAOverEthernet]]</nowiki>
 * HardwareTestingCatalog
-* <nowiki>[[AustralianTeam/Projects/UbuntuFriendlyNotebooks]]</nowiki>
+* <nowiki>[[AustralianTeam-Projects-UbuntuFriendlyNotebooks]]</nowiki>
 * PaulSchulz/MiscellaniousHardware
 * PaulSchulz/WebcamConfiguration
 * PaulSchulz/ComputerTraining
 * PaulSchulz/CommunityContacts
-* <nowiki>[[PaulSchulz/LDAPAuthenticationNotes]]</nowiki>
+* <nowiki>[[PaulSchulz-LDAPAuthenticationNotes]]</nowiki>
 * PaulSchulz/DapperPressReleases
-* <nowiki>[[PaulSchulz/USBControlledAC]]</nowiki>
+* <nowiki>[[PaulSchulz-USBControlledAC]]</nowiki>
 * PaulSchulz/ConnectingUp06
 
 == A Brief Introduction (to me) ==
 
+New bio details required.
+
+=== Previous Bio ===
+
+---- /!\ '''Edit conflict - other version:''' ----
+New bio details required.
+
+=== Previous Bio ===
+
+---- /!\ '''Edit conflict - your version:''' ----
+
+---- /!\ '''End of edit conflict''' ----
 Paul works for Quantum, in Adelaide, South Australia as the System Administrator for the Adelaide Office.
  
-He was resently employed as a System Adminstrator and Perl Programmer.
+He was recently employed as a System Administrator and Perl Programmer.
 Paul has also worked on embedded Linux systems for a Crane Safety Systems. In past lives he has worked with large SQL databases (education), been a Unix/Linux System Administrator (defence), and developed network managment software (startup). Oh, yeah and he also studied Physics and Mathematics at the University of Adelaide.
 
 He is also involved in LinuxSA (The South Australian Linux User Group, <nowiki>[[http://www.linuxsa.org.au]]</nowiki>) and Air-Stream (Adelaide Community Wireless Network, <nowiki>[[http://www.air-stream.org.au]]</nowiki>). He has given presentations on various topics of personal interest, ranging from distributed computing, embedded Linux and 'git'. 

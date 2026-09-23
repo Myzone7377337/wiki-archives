@@ -19,9 +19,6 @@ __TOC__
 | Name
 | N1ck 7h0m4d4k15
 |-
-| Age
-| 42
-|-
 | Location
 | Greece
 |-
@@ -40,11 +37,8 @@ __TOC__
 | WPblog(el_GR)
 | https://nicktux.com
 |-
-| Ubuntu People
-| <nowiki>[[http://people.ubuntu.com/~nicktux|NickTux@Ubuntu]]</nowiki>
-|-
 | '''Latest Update'''
-| 2019/10/20
+| 2026/05/23
 |}
 
 ------
@@ -94,9 +88,9 @@ I will continue using, testing and advocating Ubuntu and '''contributing in any 
 
 === Team member of ===
 
-{{https://launchpadlibrarian.net/217867748/pictogram-community-orange-hex.png}} <nowiki>[[https://launchpad.net/~ubuntu-community-team|Ubuntu Community]]</nowiki>
+{{https://launchpadlibrarian.net/606495581/CoF%2014px.png}} <nowiki>[[https://launchpad.net/~ubuntumembers|Ubuntu Members]]</nowiki>
 
-{{https://launchpadlibrarian.net/75517213/ubuntumembers-14x14.png}} <nowiki>[[https://launchpad.net/~ubuntumembers|Ubuntu Members]]</nowiki>
+{{https://launchpadlibrarian.net/217867748/pictogram-community-orange-hex.png}} <nowiki>[[https://launchpad.net/~ubuntu-community-team|Ubuntu Community]]</nowiki>
 
 {{https://launchpadlibrarian.net/1812570/bugsquad.png}} <nowiki>[[https://launchpad.net/~bugsquad|Ubuntu BugSquad]]</nowiki>
 
@@ -105,8 +99,6 @@ I will continue using, testing and advocating Ubuntu and '''contributing in any 
 {{https://launchpadlibrarian.net/9608570/ubuntu_emblem.png}} <nowiki>[[https://launchpad.net/~ubuntu-users|Ubuntu Users]]</nowiki>
 
 {{https://launchpadlibrarian.net/73777706/unity_user14.png}} <nowiki>[[https://launchpad.net/~ubuntu-users|Unity and Ubuntu Users]]</nowiki>
-
-{{https://launchpadlibrarian.net/17957513/gem-sm.png}} <nowiki>[[https://launchpad.net/~launchpad-users|Launchpad users]]</nowiki>
 
 {{https://launchpadlibrarian.net/162222905/locoteams-icon.png}} <nowiki>[[https://launchpad.net/~locoteams|Ubuntu Local Community Teams]]</nowiki>
 
@@ -117,8 +109,6 @@ I will continue using, testing and advocating Ubuntu and '''contributing in any 
 {{https://launchpadlibrarian.net/1832140/ubuntu-el-translators.png}} <nowiki>[[https://launchpad.net/~ubuntu-l10n-el|Greek Translators]]</nowiki>
 
 {{https://launchpadlibrarian.net/151442766/ubuntugr-qa-launchpad-icon.png}} <nowiki>[[https://launchpad.net/~ubuntugr-qa|Ubuntu-Greece-QA]]</nowiki>
-
-{{https://launchpadlibrarian.net/221123331/utappia14.png}} <nowiki>[[https://launchpad.net/~utappia|Utappia]]</nowiki>
 
 === The Ubuntu Promise ===
 '''<nowiki>[[http://www.ubuntu.com/project|The Ubuntu Promise]]</nowiki>'''
@@ -136,12 +126,10 @@ I will continue giving assistance mainly at:
 
  {*} '''<nowiki>[[https://forum.ubuntu-gr.org/|Ubuntu-GR Forums]]</nowiki>'''
 
- {*} '''<nowiki>[[https://ubuntuforums.org/member.php?u=1566509|Official Ubuntu Forums]]</nowiki>'''
-
  {*} '''<nowiki>[[https://askubuntu.com|askubuntu.com]]</nowiki>'''
 
  {*} '''<nowiki>[[https://community.ubuntu.com|Ubuntu Community Hub]]</nowiki>'''
 
- {*} '''<nowiki>[[irc:--freenode-ubuntu-gr|#ubuntu-gr @ irc.freenode.net]]</nowiki>'''
+ {*} '''<nowiki>[[irc://freenode/ubuntu-gr|#ubuntu-gr @ irc.freenode.net]]</nowiki>'''
 
  {*} '''<nowiki>[[https://lists.ubuntu.com/mailman/listinfo/Ubuntu-gr|Ubuntu-gr mailing list]]</nowiki>'''

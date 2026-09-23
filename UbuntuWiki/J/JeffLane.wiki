@@ -12,9 +12,8 @@ I've been an Ubuntu user since Hardy and have been a Linux user in general since
 
 ==== Contact Info ====
 * '''E-Mail'''
-** * '''Website:''' <nowiki>[[http://www.jefflane.org|Jeff Lane dot Org]]</nowiki>
-* '''IRC:''' bladernr_ on Freenode
-* '''Launchpad:''' <nowiki>[[https://launchpad.net/~bladernr]]</nowiki>
+** * '''Launchpad:''' <nowiki>[[https://launchpad.net/~bladernr]]</nowiki>
+* '''Github:''' <nowiki>[[https://github.com/bladernr]]</nowiki>
 === Hardware ===
 Currently, I run the following:
 {| class="wikitable"

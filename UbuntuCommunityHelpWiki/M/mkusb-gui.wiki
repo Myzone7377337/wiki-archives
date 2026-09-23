@@ -140,7 +140,7 @@ You can download one of the following tarballs (compressed tar files) and check 
 
 {| class="wikitable"
 |-
-| <#CCFF99> See more details at the tarball subpage: '''<nowiki>[[tarball]]</nowiki>'''
+| <#CCFF99> See more details at the tarball subpage: '''<nowiki>[[-tarball]]</nowiki>'''
 |}
 
 You can download tarballs from <nowiki>[[https://github.com/sudodus/tarballs]]</nowiki>. It might bring the same bleeding edge version as you get via the unstable PPA, and sometimes a newer or older experimental version.

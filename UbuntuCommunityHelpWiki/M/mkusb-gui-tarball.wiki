@@ -9,7 +9,7 @@
 __TOC__
 
 
-<nowiki>[[..-|Return to the mkusb-gui page]]</nowiki>
+<nowiki>[[..-|Return to the mkusb/gui page]]</nowiki>
 -----
 
 == Install dus with guidus alias mkusb-dus alias mkusb version 12 from a tarball ==
@@ -134,7 +134,7 @@ $ sudo ./dus-installer i
 </pre>
 or
 <pre>
-</pre>
+}}}
 
 {| class="wikitable"
 |-
@@ -142,17 +142,17 @@ or
 |}
 
 or to '''remove''' dus
-<pre>
+{{{
 $ sudo ./dus-installer r
 </pre>
 
 or
 <pre>
-</pre>
+}}}
 
 == Usage text ==
 
-<pre>
+{{{
 $ ./dus-installer 
 Run with superuser privileges, as root or with sudo
 
@@ -170,4 +170,4 @@ $ sudo ./dus-installer r  # remove with sudo
 '''Quick start manual version 12 alias dus''', <nowiki>[[attachment:..-..-mkUSB-quick-start-manual-12.pdf]]</nowiki>
 
 -----
-<nowiki>[[..-|Return to the mkusb-gui page]]</nowiki>
+<nowiki>[[..-|Return to the mkusb/gui page]]</nowiki>
