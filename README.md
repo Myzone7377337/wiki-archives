@@ -8,6 +8,11 @@ This is a public, readonly archive of the source text for two (soon to be) depre
 As these wikis were very large, we sorted each into alphanumeric subdirectories,
 to improve search and navigation on GitHub.
 
+The latest version of each page, **as of September 23rd, 2026**, is included in this
+plaintext repo.
+
+The new wiki was launched on September, 22nd 2026.
+
 > [!NOTE]
 > There are a very large number of pages in this archive.
 > 
@@ -19,6 +24,8 @@ to improve search and navigation on GitHub.
 > 
 > These contain multiple page versions, images, attachments, 
 > and other data that could not be included in the repository directly.
+> Note that the tarball archive is currently not as up-to-date as the plaintext
+> archive.
 
 ## Table of Contents
 
